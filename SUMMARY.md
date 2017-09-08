@@ -229,7 +229,6 @@
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
 * [常见问题](chang-jian-wen-ti.md)
-
   * 组织架构
   * 权限相关
   * 导入导出
@@ -244,13 +243,12 @@
   * 电销版—无线话机
   * 电销版—电话宝
   * 钉钉相关
-  * API对接
-
-  * * [API接口是什么](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/apijie-kou-shi-shi-yao.md)
-    * [API接口怎么用](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/apijie-kou-zen-yao-yong.md)
-    * [爱客CRM都有哪些API接口](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
-    * [如何获取user\_token](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/ru-he-huo-qu-user-token.md)
-    * [API请求次数有什么限制吗](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
+  * [API对接](chang-jian-wen-ti/apidui-jie.md)
+    * API接口是什么
+    * API接口怎么用
+    * 爱客CRM都有哪些API接口
+    * 如何获取user\_token
+    * API请求次数有什么限制吗
 
 
 
