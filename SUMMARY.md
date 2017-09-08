@@ -244,3 +244,15 @@
   * 电销版—电话宝
   * 钉钉相关
 
+  [API对接](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie.md)
+  * * [API接口是什么](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/apijie-kou-shi-shi-yao.md)
+    * [API接口怎么用](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/apijie-kou-zen-yao-yong.md)
+    * [爱客CRM都有哪些API接口](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
+    * [如何获取user\_token](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/ru-he-huo-qu-user-token.md)
+    * [API请求次数有什么限制吗](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
+  * [关于安全](https://github.com/leasonlau/ikcrm/blob/test-1/guan-yu-an-quan.md)
+    * [帐号安全](https://github.com/leasonlau/ikcrm/blob/test-1/zhang-hao-an-quan.md)
+    * [数据安全](https://github.com/leasonlau/ikcrm/blob/test-1/shu-ju-an-quan.md)
+
+
+
