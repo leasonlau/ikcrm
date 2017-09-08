@@ -229,6 +229,7 @@
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
 * [常见问题](chang-jian-wen-ti.md)
+
   * 组织架构
   * 权限相关
   * 导入导出
@@ -243,8 +244,8 @@
   * 电销版—无线话机
   * 电销版—电话宝
   * 钉钉相关
+  * API对接
 
-  [API对接](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie.md)
   * * [API接口是什么](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/apijie-kou-shi-shi-yao.md)
     * [API接口怎么用](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/apijie-kou-zen-yao-yong.md)
     * [爱客CRM都有哪些API接口](https://github.com/leasonlau/ikcrm/blob/test-1/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
