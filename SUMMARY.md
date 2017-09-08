@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
@@ -7,9 +7,9 @@
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * 扫描名片
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
     * 全部线索
     * 我的线索
     * 我下属的线索
@@ -152,7 +152,7 @@
     * 呼入统计报表
     * 呼出流水报表
     * 呼入流水报表
-  * [工作](chapter1/gong-zuo-bao-gao.md)报告
+  * [工作](chapter1/gong-zuo-bao-gao.md)
     * 写工作报告
     * 编辑工作报告
     * 删除工作报告
@@ -228,7 +228,7 @@
   * [更多设置](xi-tong-she-zhi/geng-duo-she-zhi.md)
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
-* 常见问题
+* [常见问题](chang-jian-wen-ti.md)
   * 组织架构
   * 权限相关
   * 导入导出
@@ -243,15 +243,4 @@
   * 电销版—无线话机
   * 电销版—电话宝
   * 钉钉相关
-* * [API对接](apidui-jie.md)
-    * [API接口是什么](apidui-jie/apijie-kou-shi-shi-yao.md)
-    * [API接口怎么用](apidui-jie/apijie-kou-zen-yao-yong.md)
-    * [爱客CRM都有哪些API接口](apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
-    * [如何获取user\_token](apidui-jie/ru-he-huo-qu-user-token.md)
-    * [API请求次数有什么限制吗](apidui-jie/apiqing-qiu-ci-shu-you-shi-yao-xian-zhi-ma.md)
-  * [关于安全](guan-yu-an-quan.md)
-    * [帐号安全](zhang-hao-an-quan.md)
-    * [数据安全](shu-ju-an-quan.md)
-
-
 
