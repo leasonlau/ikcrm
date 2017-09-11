@@ -5,35 +5,25 @@
   * [线索](chapter1/xian-suo.md)
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
-<<<<<<< HEAD
     * [扫描名片](chapter1/xian-suo/sao-miao-ming-pian.md)
-=======
-    * 扫描名片
->>>>>>> wmh
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
-<<<<<<< HEAD
+    * [转移线索](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [编辑线索](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [删除线索](chapter1/xian-suo/pi-liang-shan-chu.md)
     * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
-<<<<<<< HEAD
     * [我的线索](chapter1/xian-suo/wo-de-xian-suo.md)
     * [我下属的线索](chapter1/xian-suo/wo-xia-shu-de-xian-suo.md)
-=======
+    * [我的线索](chapter1/xian-suo/wo-de-xian-suo.md)
+    * [我下属的线索](chapter1/xian-suo/wo-xia-shu-de-xian-suo.md)
+    * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
     * 我的线索
     * 我下属的线索
->>>>>>> xuchao
-=======
-    * 全部线索
-    * 我的线索
-    * 我下属的线索
->>>>>>> wmh
     * 已转客户的线索
-    * 导出线索
+    * [导出线索](chapter1/xian-suo/dao-chu-xian-suo.md)
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
   * [客户](chapter1/ke-hu.md)
     * [新增客户](chapter1/ke-hu/xin-zeng-ke-hu.md)
-    * 导入客户
+    * [导入客户](chapter1/ke-hu/dao-ru-ke-hu.md)
     * [导入客户跟进记录](chapter1/ke-hu/dao-ru-ke-hu-gen-jin-ji-lu.md)
     * [客户查重](chapter1/ke-hu/ke-hu-cha-zhong.md)
     * 转移给他人
@@ -81,7 +71,6 @@
     * 导出联系人
     * [联系人角色](chapter1/lian-xi-ren/lian-xi-ren-jiao-se.md)
   * [商机](chapter1/shang-ji.md)
-<<<<<<< HEAD
     * [新增商机](chapter1/shang-ji/xin-zeng-shang-ji.md)
     * [导入商机](chapter1/shang-ji/dao-ru-shang-ji.md)
     * [导入商机跟进记录](chapter1/shang-ji/dao-ru-shang-ji-gen-jin-ji-lu.md)
@@ -122,10 +111,8 @@
     * [添加费用](chapter1/he-tong/tian-jia-fei-yong.md)
     * [复制合同](chapter1/he-tong/fu-zhi-he-tong.md)
   * [回款](chapter1/hui-kuan.md)
-<<<<<<< HEAD
     * 新增回款计划
     * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
-=======
     * 新增商机
     * 导入商机
     * 导入商机跟进记录
@@ -168,7 +155,6 @@
   * [回款](chapter1/hui-kuan.md)
     * 新增回款计划
     * 导入回款计划
->>>>>>> wmh
     * 导出回款计划
     * 新增回款记录
     * 导入回款记录
@@ -176,8 +162,6 @@
     * 新增开票记录
     * 导入开票记录
     * 导出开票记录
-<<<<<<< HEAD
-=======
     * [新增回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
     * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
     * [导出回款计划](chapter1/hui-kuan/dao-chu-hui-kuan-ji-hua.md)
@@ -187,19 +171,6 @@
     * [新增开票记录](chapter1/hui-kuan/xin-zeng-kai-piao-ji-lu.md)
     * [导入开票记录](chapter1/hui-kuan/dao-ru-kai-piao-ji-lu.md)
     * [导出开票记录](chapter1/hui-kuan/dao-chu-kai-piao-ji-lu.md)
->>>>>>> xuchao
-  * [产品](chapter1/chan-pin.md)
-    * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
-    * [导入产品](chapter1/chan-pin/dao-ru-chan-pin.md)
-    * [编辑产品](chapter1/chan-pin/bian-ji-chan-pin.md)
-    * [删除产品](chapter1/chan-pin/shan-chu-chan-pin.md)
-    * [禁用产品](chapter1/chan-pin/jin-yong-chan-pin.md)
-    * [启用产品](chapter1/chan-pin/qi-yong-chan-pin.md)
-    * [新增产品分类](chapter1/chan-pin/xin-zeng-chan-pin-fen-lei.md)
-    * [编辑产品分类](chapter1/chan-pin/bian-ji-chan-pin-fen-lei.md)
-    * [删除产品分类](chapter1/chan-pin/shan-chu-chan-pin-fen-lei.md)
-    * [导出产品](chapter1/chan-pin/dao-chu-chan-pin.md)
-=======
   * [产品](chapter1/chan-pin.md)
     * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
     * 导入产品
@@ -211,10 +182,9 @@
     * 编辑产品分类
     * 删除产品分类
     * 导出产品
->>>>>>> wmh
   * [报表中心](chapter1/bao-biao-zhong-xin.md)
-    * 跟进记录报表
-    * 销售预测报表
+    * [跟进记录报表](chapter1/bao-biao-zhong-xin/gen-jin-ji-lu-bao-biao.md)
+    * [销售预测报表](chapter1/bao-biao-zhong-xin/xiao-shou-yu-ce-bao-biao.md)
     * [销售漏斗报表](chapter1/bao-biao-zhong-xin/xiao-shou-lou-dou-bao-biao.md)
     * [业务新增汇总报表](chapter1/bao-biao-zhong-xin/ye-wu-xin-zeng-hui-zong-bao-biao.md)
     * 业绩目标完成度报表
@@ -237,38 +207,8 @@
     * 呼出统计报表
     * 呼入统计报表
     * 呼出流水报表
-    * 呼入流水报表
-<<<<<<< HEAD
+    * [呼入流水报表](chapter1/bao-biao-zhong-xin/hu-ru-liu-shui-bao-biao.md)
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
-<<<<<<< HEAD
-=======
-  * [工作](chapter1/gong-zuo-bao-gao.md)
->>>>>>> wmh
-    * 写工作报告
-    * 编辑工作报告
-    * 删除工作报告
-    * 提交给我的报告
-    * 我提交的报告
-    * 我下属的报告
-    * 报告统计
-    * 导出工作报告
-    * 批阅工作报告
-    * 点评工作报告
-    * 回复点评
-<<<<<<< HEAD
-=======
-    * [写工作报告](chapter1/gong-zuo-bao-gao/xie-gong-zuo-bao-gao.md)
-    * [编辑工作报告](chapter1/gong-zuo-bao-gao/bian-ji-gong-zuo-bao-gao.md)
-    * [删除工作报告](chapter1/gong-zuo-bao-gao/shan-chu-gong-zuo-bao-gao.md)
-    * [提交给我的报告](chapter1/gong-zuo-bao-gao/ti-jiao-gei-wo-de-bao-gao.md)
-    * [我提交的报告](chapter1/gong-zuo-bao-gao/wo-ti-jiao-de-bao-gao.md)
-    * [我下属的报告](chapter1/gong-zuo-bao-gao/wo-xia-shu-de-bao-gao.md)
-    * [报告统计](chapter1/gong-zuo-bao-gao/bao-gao-tong-ji.md)
-    * [导出工作报告](chapter1/gong-zuo-bao-gao/dao-chu-gong-zuo-bao-gao.md)
-    * [批阅工作报告](chapter1/gong-zuo-bao-gao/pi-yue-gong-zuo-bao-gao.md)
-    * [点评工作报告](chapter1/gong-zuo-bao-gao/dian-ping-gong-zuo-bao-gao.md)
-    * [回复点评](chapter1/gong-zuo-bao-gao/hui-fu-dian-ping.md)
->>>>>>> xuchao
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
     * [写跟进](chapter1/gen-jin-ji-lu/xie-gen-jin.md)
     * [导入跟进记录](chapter1/gen-jin-ji-lu/dao-ru-gen-jin-ji-lu.md)
@@ -277,8 +217,8 @@
     * [评论跟进记录](chapter1/gen-jin-ji-lu/ping-lun-gen-jin-ji-lu.md)
     * [回复评论](chapter1/gen-jin-ji-lu/hui-fu-ping-lun.md)
   * [业绩目标](chapter1/ye-ji-mu-biao.md)
-    * 设置业绩目标
-    * 查看业绩目标完成情况
+    * [设置业绩目标](chapter1/ye-ji-mu-biao/she-zhi-ye-ji-mu-biao.md)
+    * [查看业绩目标完成情况](chapter1/ye-ji-mu-biao/cha-kan-ye-ji-mu-biao-wan-cheng-qing-kuang.md)
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
     * [新增费用](chapter1/fei-yong-bao-xiao/xin-zeng-fei-yong.md)
     * [新增报销单](chapter1/fei-yong-bao-xiao/xin-zeng-bao-xiao-dan.md)
@@ -289,12 +229,9 @@
     * [导出报销单](chapter1/fei-yong-bao-xiao/dao-chu-bao-xiao-dan.md)
     * [导出费用](chapter1/fei-yong-bao-xiao/dao-chu-fei-yong.md)
   * [数据上报](chapter1/shu-ju-shang-bao.md)
-<<<<<<< HEAD
     * 新增数据上报
     * 查看数据上报
-=======
     * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
->>>>>>> xuchao
   * [短信群发](chapter1/duan-xin-qun-fa.md)
     * [购买短信](chapter1/duan-xin-qun-fa/gou-mai-duan-xin.md)
     * [发送短信](chapter1/duan-xin-qun-fa/fa-song-duan-xin.md)
@@ -304,51 +241,7 @@
     * [通话记录](chapter1/hu-jiao-zhong-xin/tong-hua-ji-lu.md)
     * [通话统计](chapter1/hu-jiao-zhong-xin/tong-hua-tong-ji.md)
     * [批量拨号](chapter1/hu-jiao-zhong-xin/pi-liang-bo-hao.md)
-  * 工商查询
-  * 风险信息订阅
-  * [业绩提成](chapter1/ye-ji-ti-cheng.md)
-  * [知识库](chapter1/zhi-shi-ku.md)
-  * [工作台](chapter1/gong-zuo-tai.md)
-  * 通知中心
-  * 提醒
-  * [附件](chapter1/fu-jian.md)
-  * 操作日志
-  * [快捷编辑](chapter1/kuai-jie-bian-ji.md)
-  * [自定义筛选](chapter1/zi-ding-yi-shai-xuan.md)
-  * [自定义显示列](chapter1/zi-ding-yi-xian-shi-lie.md)
-  * [搜索和查询](chapter1/sou-suo-he-cha-xun.md)
-=======
-  * [跟进记录](chapter1/gen-jin-ji-lu.md)
-    * 写跟进
-    * 导入跟进记录
-    * 删除跟进记录
-    * 导出跟进记录
-    * 评论跟进记录
-    * 回复评论
-  * [业绩目标](chapter1/ye-ji-mu-biao.md)
-    * [设置业绩目标](chapter1/ye-ji-mu-biao/she-zhi-ye-ji-mu-biao.md)
-    * [查看业绩目标完成情况](chapter1/ye-ji-mu-biao/cha-kan-ye-ji-mu-biao-wan-cheng-qing-kuang.md)
-  * [费用报销](chapter1/fei-yong-bao-xiao.md)
-    * 新增费用
-    * 新增报销单
-    * 全部报销单
-    * 我的报销单
-    * 全部费用
-    * 我的费用
-    * 导出报销单
-    * 导出费用
-  * [数据上报](chapter1/shu-ju-shang-bao.md)
-    * 新增数据上报
-  * [短信群发](chapter1/duan-xin-qun-fa.md)
-    * 购买短信
-    * 发送短信
-  * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
-    * 一键拨号
-    * 来电弹屏
-    * 通话记录
-    * 播放录音
-    * 下载录音
-    * 批量拨号
+  * [操作日志](chapter1/cao-zuo-ri-zhi.md)
   * [工商查询](chapter1/gong-shang-cha-xun.md)
     * [开启工商查询](chapter1/gong-shang-cha-xun/1.md)
     * [使用方法](chapter1/gong-shang-cha-xun/shi-yong-fang-fa.md)
@@ -394,24 +287,18 @@
     * [任务通知](chapter1/ti-xing/ren-wu-tong-zhi.md)
   * [附件](chapter1/fu-jian.md)
   * [快捷编辑](chapter1/kuai-jie-bian-ji.md)
-  * [日志查询](chapter1/cao-zuo-ri-zhi.md)
   * [自定义筛选](chapter1/zi-ding-yi-shai-xuan.md)
   * [自定义显示列](chapter1/zi-ding-yi-xian-shi-lie.md)
   * [搜索和查询](chapter1/sou-suo-he-cha-xun.md)
     * [全局搜索](chapter1/sou-suo-he-cha-xun/quan-ju-sou-suo.md)
     * [查询](chapter1/sou-suo-he-cha-xun/cha-xun.md)
->>>>>>> wmh
 * [系统设置](xi-tong-she-zhi.md)
   * [部门和用户](xi-tong-she-zhi/bu-men-he-yong-hu.md)
   * [角色和权限](xi-tong-she-zhi/jiao-se-he-quan-xian.md)
   * [公司信息](xi-tong-she-zhi/gong-si-xin-xi.md)
   * [公告管理](xi-tong-she-zhi/gong-gao-guan-li.md)
   * [业绩目标](xi-tong-she-zhi/ye-ji-mu-biao.md)
-<<<<<<< HEAD
   * [业绩提成](xi-tong-she-zhi/ye-ji-ti-cheng.md)
-=======
-  * 业绩提成
->>>>>>> wmh
   * [查重设置](xi-tong-she-zhi/cha-zhong-she-zhi.md)
   * [客户公海](xi-tong-she-zhi/ke-hu-gong-hai.md)
   * [工作报告](xi-tong-she-zhi/gong-zuo-bao-gao.md)
@@ -425,7 +312,6 @@
   * [更多设置](xi-tong-she-zhi/geng-duo-she-zhi.md)
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
-<<<<<<< HEAD
 * [常见问题](chang-jian-wen-ti.md)
   * [组织架构](chang-jian-wen-ti/zu-zhi-jia-gou.md)
   * [权限相关](chang-jian-wen-ti/quan-xian-xiang-guan.md)
@@ -445,25 +331,7 @@
   * [API接口](chang-jian-wen-ti/apidui-jie.md)
     * [API接口怎么用](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
     * [爱客CRM都有哪些API接口](chang-jian-wen-ti/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
-
   * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
-    * 帐号安全
+    * [帐号安全](chang-jian-wen-ti/guan-yu-an-quan/zhang-hao-an-quan.md)
     * 数据安全
-=======
-* 常见问题
-  * 组织架构
-  * 权限相关
-  * 导入导出
-  * 客户公海
-  * 查重相关
-  * 线索管理
-  * 商机管理
-  * 合同回款
-  * 短信群发
-  * 通知提醒
-  * 附件上传
-  * 电销版—无线话机
-  * 电销版—电话宝
-  * 钉钉相关
->>>>>>> wmh
 
