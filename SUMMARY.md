@@ -1,16 +1,16 @@
-# 目录
+# Summary
 
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
   * [线索](chapter1/xian-suo.md)
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
-    * 扫描名片
+    * [扫描名片](chapter1/xian-suo/sao-miao-ming-pian.md)
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)线索
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
-    * 全部线索
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
+    * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
     * 我的线索
     * 我下属的线索
     * 已转客户的线索
@@ -66,26 +66,26 @@
     * 导出联系人
     * [联系人角色](chapter1/lian-xi-ren/lian-xi-ren-jiao-se.md)
   * [商机](chapter1/shang-ji.md)
-    * 新增商机
-    * 导入商机
-    * 导入商机跟进记录
-    * 转移给他人
-    * 添加协作人
-    * 编辑商机
-    * 删除商机
-    * 全部商机
-    * 我的商机
-    * 我下属的商机
-    * 我协作的商机
-    * 我下属协作的商机
-    * 导出商机
-    * 添加联系人
-    * 添加产品
-    * 添加费用
-    * 转成合同
+    * [新增商机](chapter1/shang-ji/xin-zeng-shang-ji.md)
+    * [导入商机](chapter1/shang-ji/dao-ru-shang-ji.md)
+    * [导入商机跟进记录](chapter1/shang-ji/dao-ru-shang-ji-gen-jin-ji-lu.md)
+    * [转移给他人](chapter1/shang-ji/zhuan-yi-gei-ta-ren.md)
+    * [添加协作人](chapter1/shang-ji/tian-jia-xie-zuo-ren.md)
+    * [编辑商机](chapter1/shang-ji/bian-ji-shang-ji.md)
+    * [删除商机](chapter1/shang-ji/shan-chu-shang-ji.md)
+    * [全部商机](chapter1/shang-ji/quan-bu-shang-ji.md)
+    * [我的商机](chapter1/shang-ji/wo-de-shang-ji.md)
+    * [我下属的商机](chapter1/shang-ji/wo-xia-shu-de-shang-ji.md)
+    * [我协作的商机](chapter1/shang-ji/wo-xie-zuo-de-shang-ji.md)
+    * [我下属协作的商机](chapter1/shang-ji/wo-xia-shu-xie-zuo-de-shang-ji.md)
+    * [导出商机](chapter1/shang-ji/dao-chu-shang-ji.md)
+    * [添加联系人](chapter1/shang-ji/tian-jia-lian-xi-ren.md)
+    * [添加产品](chapter1/shang-ji/tian-jia-chan-pin.md)
+    * [添加费用](chapter1/shang-ji/tian-jia-fei-yong.md)
+    * [转成合同](chapter1/shang-ji/zhuan-cheng-he-tong.md)
   * [合同](chapter1/he-tong.md)
-    * 新增合同
-    * 导入合同
+    * [新增合同](chapter1/he-tong/xin-zeng-he-tong.md)
+    * [导入合同](chapter1/he-tong/dao-ru-he-tong.md)
     * 导入合同跟进记录
     * 转移给他人
     * 添加协作人
@@ -106,7 +106,7 @@
     * 添加费用
     * 复制合同
   * [回款](chapter1/hui-kuan.md)
-    * 新增回款计划
+    * [新增回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
     * 导入回款计划
     * 导出回款计划
     * 新增回款记录
@@ -114,7 +114,7 @@
     * 导出回款记录
     * 新增开票记录
     * 导入开票记录
-    * 导出开票记录
+    * [导出开票记录](chapter1/hui-kuan/dao-chu-kai-piao-ji-lu.md)
   * [产品](chapter1/chan-pin.md)
     * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
     * 导入产品
@@ -152,7 +152,7 @@
     * 呼入统计报表
     * 呼出流水报表
     * 呼入流水报表
-  * [工作](chapter1/gong-zuo-bao-gao.md)报告
+  * [工作](chapter1/gong-zuo-bao-gao.md)
     * 写工作报告
     * 编辑工作报告
     * 删除工作报告
@@ -184,7 +184,7 @@
     * 导出报销单
     * 导出费用
   * [数据上报](chapter1/shu-ju-shang-bao.md)
-    * 新增数据上报
+    * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
     * 购买短信
     * 发送短信
@@ -197,7 +197,7 @@
     * 批量拨号
   * 工商查询
   * 风险信息订阅
-  * 业绩提成
+  * [业绩提成](chapter1/ye-ji-ti-cheng.md)
   * [知识库](chapter1/zhi-shi-ku.md)
   * [工作台](chapter1/gong-zuo-tai.md)
   * 通知中心
@@ -214,7 +214,7 @@
   * [公司信息](xi-tong-she-zhi/gong-si-xin-xi.md)
   * [公告管理](xi-tong-she-zhi/gong-gao-guan-li.md)
   * [业绩目标](xi-tong-she-zhi/ye-ji-mu-biao.md)
-  * 业绩提成
+  * [业绩提成](xi-tong-she-zhi/ye-ji-ti-cheng.md)
   * [查重设置](xi-tong-she-zhi/cha-zhong-she-zhi.md)
   * [客户公海](xi-tong-she-zhi/ke-hu-gong-hai.md)
   * [工作报告](xi-tong-she-zhi/gong-zuo-bao-gao.md)
@@ -253,6 +253,4 @@
   * 关于安全
     * 帐号安全
     * 数据安全
-
-
 
