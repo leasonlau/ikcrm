@@ -243,6 +243,7 @@
   * 电销版—无线话机
   * 电销版—电话宝
   * 钉钉相关
+  * 打通进销存
   * [API对接](chang-jian-wen-ti/apidui-jie.md)
     * API接口是什么
     * API接口怎么用
