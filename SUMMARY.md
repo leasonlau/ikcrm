@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
@@ -7,9 +7,9 @@
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * 扫描名片
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)线索
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
     * 全部线索
     * 我的线索
     * 我下属的线索
@@ -152,7 +152,7 @@
     * 呼入统计报表
     * 呼出流水报表
     * 呼入流水报表
-  * [工作](chapter1/gong-zuo-bao-gao.md)报告
+  * [工作](chapter1/gong-zuo-bao-gao.md)
     * 写工作报告
     * 编辑工作报告
     * 删除工作报告
@@ -229,7 +229,7 @@
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
 * [常见问题](chang-jian-wen-ti.md)
-  * 组织架构
+  * [组织架构](chang-jian-wen-ti/zu-zhi-jia-gou.md)
   * 权限相关
   * 导入导出
   * 客户公海
@@ -253,6 +253,4 @@
   * 关于安全
     * 帐号安全
     * 数据安全
-
-
 
