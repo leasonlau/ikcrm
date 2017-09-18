@@ -7,7 +7,7 @@
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * 扫描名片
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)线索
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
     * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
     * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
     * 全部线索
@@ -185,6 +185,7 @@
     * 导出费用
   * [数据上报](chapter1/shu-ju-shang-bao.md)
     * 新增数据上报
+    * 查看数据上报
   * [短信群发](chapter1/duan-xin-qun-fa.md)
     * 购买短信
     * 发送短信
