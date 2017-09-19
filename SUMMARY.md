@@ -1,4 +1,4 @@
-# Summary
+# 目录
 
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
@@ -7,9 +7,9 @@
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * [扫描名片](chapter1/xian-suo/sao-miao-ming-pian.md)
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
     * 全部线索
     * 我的线索
     * 我下属的线索
@@ -254,4 +254,6 @@
   * 关于安全
     * 帐号安全
     * 数据安全
+
+
 
