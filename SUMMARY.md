@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
@@ -7,9 +7,9 @@
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * [扫描名片](chapter1/xian-suo/sao-miao-ming-pian.md)
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
     * 全部线索
     * 我的线索
     * 我下属的线索
@@ -230,11 +230,11 @@
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
 * [常见问题](chang-jian-wen-ti.md)
-  * 组织架构
-  * 权限相关
-  * 导入导出
+  * [组织架构](chang-jian-wen-ti/zu-zhi-jia-gou.md)
+  * [权限相关](chang-jian-wen-ti/quan-xian-xiang-guan.md)
+  * [导入导出](chang-jian-wen-ti/dao-ru-dao-chu.md)
   * 客户公海
-  * 查重相关
+  * [查重相关](chang-jian-wen-ti/cha-zhong-xiang-guan.md)
   * 线索管理
   * 商机管理
   * 合同回款
@@ -254,6 +254,4 @@
   * 关于安全
     * 帐号安全
     * 数据安全
-
-
 
