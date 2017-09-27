@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
@@ -7,12 +7,12 @@
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
     * [扫描名片](chapter1/xian-suo/sao-miao-ming-pian.md)
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)给他人
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
     * 全部线索
     * 我的线索
-    * 我下属的线索
+    * [我下属的线索](chapter1/xian-suo/wo-xia-shu-de-xian-suo.md)
     * 已转客户的线索
     * 导出线索
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
@@ -84,11 +84,11 @@
     * 添加费用
     * 转成合同
   * [合同](chapter1/he-tong.md)
-    * 新增合同
+    * [新增合同](chapter1/he-tong/xin-zeng-he-tong.md)
     * 导入合同
     * 导入合同跟进记录
     * 转移给他人
-    * 添加协作人
+    * [添加协作人](chapter1/he-tong/tian-jia-xie-zuo-ren.md)
     * 编辑合同
     * 删除合同
     * 全部合同
@@ -230,7 +230,7 @@
   * [密码规则设置](xi-tong-she-zhi/mi-ma-gui-ze-she-zhi.md)
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
 * [常见问题](chang-jian-wen-ti.md)
-  * 组织架构
+  * [组织架构](chang-jian-wen-ti/zu-zhi-jia-gou.md)
   * 权限相关
   * 导入导出
   * 客户公海
@@ -243,17 +243,15 @@
   * 附件上传
   * 电销版—无线话机
   * 电销版—电话宝
-  * 钉钉相关
-  * 打通进销存
+  * [钉钉相关](chang-jian-wen-ti/ding-ding-xiang-guan.md)
+  * [打通进销存](chang-jian-wen-ti/da-tong-jin-xiao-cun.md)
   * [API对接](chang-jian-wen-ti/apidui-jie.md)
-    * API接口是什么
-    * API接口怎么用
+    * [API接口是什么](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
+    * [API接口怎么用](chang-jian-wen-ti/apidui-jie/apijie-kou-zen-yao-yong.md)
     * 爱客CRM都有哪些API接口
     * 如何获取user\_token
     * API请求次数有什么限制吗
   * 关于安全
     * 帐号安全
     * 数据安全
-
-
 
