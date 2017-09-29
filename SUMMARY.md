@@ -231,7 +231,7 @@
   * [日志查询](xi-tong-she-zhi/ri-zhi-cha-xun.md)
 * [常见问题](chang-jian-wen-ti.md)
   * [组织架构](chang-jian-wen-ti/zu-zhi-jia-gou.md)
-  * 权限相关
+  * [权限相关](chang-jian-wen-ti/quan-xian-xiang-guan.md)
   * 导入导出
   * 客户公海
   * 查重相关
