@@ -10,9 +10,9 @@
     * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
     * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
     * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
-    * 全部线索
+    * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
     * 我的线索
-    * 我下属的线索
+    * [我下属的线索](chapter1/xian-suo/wo-xia-shu-de-xian-suo.md)
     * 已转客户的线索
     * 导出线索
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
@@ -246,12 +246,12 @@
   * 钉钉相关
   * 打通进销存
   * [API对接](chang-jian-wen-ti/apidui-jie.md)
-    * API接口是什么
+    * [API接口是什么](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
     * API接口怎么用
     * 爱客CRM都有哪些API接口
     * 如何获取user\_token
     * API请求次数有什么限制吗
-  * 关于安全
+  * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
     * 帐号安全
     * 数据安全
 
