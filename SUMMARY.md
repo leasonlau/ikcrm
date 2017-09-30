@@ -233,7 +233,7 @@
   * [组织架构](chang-jian-wen-ti/zu-zhi-jia-gou.md)
   * [权限相关](chang-jian-wen-ti/quan-xian-xiang-guan.md)
   * [导入导出](chang-jian-wen-ti/dao-ru-dao-chu.md)
-  * 客户公海
+  * [客户公海](chang-jian-wen-ti/ke-hu-gong-hai.md)
   * 查重相关
   * 线索管理
   * 商机管理
