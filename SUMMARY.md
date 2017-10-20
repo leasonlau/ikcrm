@@ -235,9 +235,9 @@
   * [导入导出](chang-jian-wen-ti/dao-ru-dao-chu.md)
   * [客户公海](chang-jian-wen-ti/ke-hu-gong-hai.md)
   * [查重相关](chang-jian-wen-ti/cha-zhong-xiang-guan.md)
-  * 线索管理
-  * 商机管理
-  * 合同回款
+  * [线索管理](chang-jian-wen-ti/xian-suo-guan-li.md)
+  * [商机管理](chang-jian-wen-ti/shang-ji-guan-li.md)
+  * [合同回款](chang-jian-wen-ti/he-tong-hui-kuan.md)
   * [短信群发](chang-jian-wen-ti/duan-xin-qun-fa.md)
   * 通知提醒
   * 附件上传
