@@ -241,8 +241,8 @@
   * [短信群发](chang-jian-wen-ti/duan-xin-qun-fa.md)
   * [通知提醒](chang-jian-wen-ti/tong-zhi-ti-xing.md)
   * [附件上传](chang-jian-wen-ti/fu-jian-shang-chuan.md)
-  * 电销版—无线话机
-  * 电销版—电话宝
+  * [电销版—无线话机](chang-jian-wen-ti/dian-xiao-ban-2014-wu-xian-hua-ji.md)
+  * [电销版—电话宝](chang-jian-wen-ti/dian-xiao-ban-2014-dian-hua-bao.md)
   * 钉钉相关
   * 打通进销存
   * [API对接](chang-jian-wen-ti/apidui-jie.md)
