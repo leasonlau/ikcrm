@@ -240,7 +240,7 @@
   * [合同回款](chang-jian-wen-ti/he-tong-hui-kuan.md)
   * [短信群发](chang-jian-wen-ti/duan-xin-qun-fa.md)
   * [通知提醒](chang-jian-wen-ti/tong-zhi-ti-xing.md)
-  * 附件上传
+  * [附件上传](chang-jian-wen-ti/fu-jian-shang-chuan.md)
   * 电销版—无线话机
   * 电销版—电话宝
   * 钉钉相关
