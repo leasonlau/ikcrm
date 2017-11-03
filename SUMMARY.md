@@ -243,7 +243,7 @@
   * [附件上传](chang-jian-wen-ti/fu-jian-shang-chuan.md)
   * [电销版—无线话机](chang-jian-wen-ti/dian-xiao-ban-2014-wu-xian-hua-ji.md)
   * [电销版—电话宝](chang-jian-wen-ti/dian-xiao-ban-2014-dian-hua-bao.md)
-  * 钉钉相关
+  * [钉钉相关](chang-jian-wen-ti/ding-ding-xiang-guan.md)
   * 打通进销存
   * [API对接](chang-jian-wen-ti/apidui-jie.md)
     * [API接口是什么](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
