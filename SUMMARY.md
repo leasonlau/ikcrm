@@ -194,7 +194,7 @@
     * [来电弹屏](chapter1/hu-jiao-zhong-xin/lai-dian-dan-ping.md)
     * [通话记录](chapter1/hu-jiao-zhong-xin/tong-hua-ji-lu.md)
     * [通话统计](chapter1/hu-jiao-zhong-xin/tong-hua-tong-ji.md)
-    * 批量拨号
+    * [批量拨号](chapter1/hu-jiao-zhong-xin/pi-liang-bo-hao.md)
   * 工商查询
   * 风险信息订阅
   * 业绩提成
