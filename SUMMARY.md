@@ -187,7 +187,7 @@
     * 新增数据上报
     * 查看数据上报
   * [短信群发](chapter1/duan-xin-qun-fa.md)
-    * 购买短信
+    * [购买短信](chapter1/duan-xin-qun-fa/gou-mai-duan-xin.md)
     * 发送短信
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
     * [一键拨号](chapter1/hu-jiao-zhong-xin/yi-jian-bo-hao.md)
