@@ -10,7 +10,7 @@
     * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
     * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
     * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
-    * 全部线索
+    * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
     * 我的线索
     * 我下属的线索
     * 已转客户的线索
