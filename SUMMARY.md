@@ -191,7 +191,7 @@
     * 发送短信
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
     * [一键拨号](chapter1/hu-jiao-zhong-xin/yi-jian-bo-hao.md)
-    * 来电弹屏
+    * [来电弹屏](chapter1/hu-jiao-zhong-xin/lai-dian-dan-ping.md)
     * 通话记录
     * 播放录音
     * 下载录音
