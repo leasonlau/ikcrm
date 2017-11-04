@@ -190,7 +190,7 @@
     * 购买短信
     * 发送短信
   * [呼叫中心](chapter1/hu-jiao-zhong-xin.md)
-    * 一键拨号
+    * [一键拨号](chapter1/hu-jiao-zhong-xin/yi-jian-bo-hao.md)
     * 来电弹屏
     * 通话记录
     * 播放录音
