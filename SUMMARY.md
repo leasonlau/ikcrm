@@ -11,9 +11,9 @@
     * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
     * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
     * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
-    * 我的线索
-    * 我下属的线索
-    * 已转客户的线索
+    * [我的线索](chapter1/xian-suo/wo-de-xian-suo.md)
+    * [我下属的线索](chapter1/xian-suo/wo-xia-shu-de-xian-suo.md)
+    * [已转客户的线索](chapter1/xian-suo/yi-zhuan-ke-hu-de-xian-suo.md)
     * 导出线索
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
   * [客户](chapter1/ke-hu.md)
