@@ -236,7 +236,7 @@
   * 客户公海
   * [查重相关](chang-jian-wen-ti/cha-zhong-xiang-guan.md)
   * 线索管理
-  * 商机管理
+  * [商机管理](chang-jian-wen-ti/shang-ji-guan-li.md)
   * 合同回款
   * 短信群发
   * 通知提醒
