@@ -23,7 +23,7 @@
     * [客户查重](chapter1/ke-hu/ke-hu-cha-zhong.md)
     * [转移给他人](chapter1/ke-hu/zhuan-yi-gei-ta-ren.md)
     * [转移至公海](chapter1/ke-hu/zhuan-yi-zhi-gong-hai.md)
-    * 添加协作人
+    * [添加协作人](chapter1/ke-hu/tian-jia-xie-zuo-ren.md)
     * 合并客户
     * 编辑客户
     * 删除客户
