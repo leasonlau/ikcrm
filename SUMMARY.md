@@ -246,9 +246,7 @@
   * 打通进销存
   * [API接口](chang-jian-wen-ti/apidui-jie.md)
     * [API接口怎么用](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
-    * 爱客CRM都有哪些API接口
-    * 如何获取user\_token
-    * API请求次数有什么限制吗
+    * [爱客CRM都有哪些API接口](chang-jian-wen-ti/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
   * 关于安全
     * 帐号安全
     * 数据安全
