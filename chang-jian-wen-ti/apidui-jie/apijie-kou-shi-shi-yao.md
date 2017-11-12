@@ -8,9 +8,9 @@
 
 #### 独立版
 
-需要先通过登录接口获取user\_token，然后通过user\_token
+先通过登录接口获取user\_token，然后在其他接口中带入user\_token、version\_code和device参数就可以调用其他接口了。
 
-如果你使用的是独立版，首次使用API接口，需企业管理员在企业管理后台里的【功能设置】中开通API【成为开发者】获取“开发者ID”，根据“App ID”和“App Secret”参数结合IP后就可调用API接口使用。
+通过登录接口获取user\_token时，需要通过帐号密码获取，version\_code填写3.13.0即可（后续版本的接口是向下兼容的），device填写ios或android。
 
 
 
