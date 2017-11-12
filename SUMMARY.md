@@ -245,8 +245,7 @@
   * 钉钉相关
   * 打通进销存
   * [API接口](chang-jian-wen-ti/apidui-jie.md)
-    * [API接口是什么](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
-    * API接口怎么用
+    * [API接口怎么用](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
     * 爱客CRM都有哪些API接口
     * 如何获取user\_token
     * API请求次数有什么限制吗
