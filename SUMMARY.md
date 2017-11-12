@@ -243,7 +243,7 @@
   * 电销版—无线话机
   * 电销版—电话宝
   * 钉钉相关
-  * 打通进销存
+  * [打通进销存](chang-jian-wen-ti/da-tong-jin-xiao-cun.md)
   * [API接口](chang-jian-wen-ti/apidui-jie.md)
     * [API接口怎么用](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
     * [爱客CRM都有哪些API接口](chang-jian-wen-ti/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
