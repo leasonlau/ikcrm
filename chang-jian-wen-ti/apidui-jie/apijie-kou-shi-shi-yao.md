@@ -20,7 +20,5 @@
 
 设置好帐号密码后，先通过登录接口获取user\_token，然后在其他接口中带入user\_token、version\_code和device参数就可以调用其他接口了。
 
-通过登录接口获取user\_token时，需要通过帐号密码获取，建议用超级管理员的帐号密码来获取user\_token，这样调用其他接口时不会碰到权限不够导致的失败。version\_code填写3.13.0即可（后续版本的接口是向下兼容的），device填写ios或android。
-
-
+通过登录接口获取user\_token时，需要通过帐号密码获取，建议用超级管理员的帐号密码来获取user\_token，这样调用其他接口时不会碰到权限不够导致的失败。version\_code填写3.13.0即可（后续版本的接口是向下兼容的），device填写dingtalk。
 
