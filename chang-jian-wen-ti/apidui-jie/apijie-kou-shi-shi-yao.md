@@ -2,7 +2,13 @@
 
 使用API接口需有一定的编程能力，爱客CRM提供免费的API对接技术咨询服务，可解答你在对接过程中遇到问题。
 
+#### 接口文档地址
+
+爱客CRM独立版和钉钉版：http://test.ikcrm.com:8008/api\_doc/
+
+励销CRM：http://open.lixiaocrm.com/api\_doc/
+
 #### 独立版
 
-首次使用API接口，需企业管理员在企业管理后台里的【功能设置】中开通API【成为开发者】获取“开发者ID”，根据“App ID”和“App Secret”参数结合IP后就可调用API接口使用。
+如果你使用的是独立版首次使用API接口，需企业管理员在企业管理后台里的【功能设置】中开通API【成为开发者】获取“开发者ID”，根据“App ID”和“App Secret”参数结合IP后就可调用API接口使用。
 
