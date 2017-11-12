@@ -10,11 +10,13 @@
 
 先通过登录接口获取user\_token，然后在其他接口中带入user\_token、version\_code和device参数就可以调用其他接口了。
 
-通过登录接口获取user\_token时，需要通过帐号密码获取，version\_code填写3.13.0即可（后续版本的接口是向下兼容的），device填写ios或android。
+通过登录接口获取user\_token时，需要通过帐号密码获取，建议用超级管理员的帐号密码来获取user\_token，这样调用其他接口时不会碰到权限不够导致的失败。version\_code填写3.13.0即可（后续版本的接口是向下兼容的），device填写ios或android。
 
 #### 钉钉版
 
-先通过登录接口获取user\_token，然后在其他接口中带入user\_token、version\_code和device参数就可以调用其他接口了。
+钉钉版对接的流程与独立版类似，但是钉钉版由于没有帐号密码，因此需要先设置爱客CRM的帐号密码。
 
-通过登录接口获取user\_token时，需要通过帐号密码获取，version\_code填写3.13.0即可（后续版本的接口是向下兼容的），device填写ios或android。
+首先联系客服400-867-1101，申请对接，客服将对你的企业开放帐号密码设置功能。然后进入爱客CRM的设置中心—部门和用户，点击姓名旁边的编辑按钮，设置手机号，再点击姓名旁边的修改密码按钮，设置密码。![](/assets/API接口怎么用1.png)![](/assets/API接口怎么用2.png)
+
+设置好帐号密码后，先通过登录接口获取user\_token，然后在其他接口中带入user\_token、version\_code和device参数就可以调用其他接口了。
 
