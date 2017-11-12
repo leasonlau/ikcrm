@@ -12,5 +12,9 @@
 
 通过登录接口获取user\_token时，需要通过帐号密码获取，version\_code填写3.13.0即可（后续版本的接口是向下兼容的），device填写ios或android。
 
+#### 钉钉版
 
+先通过登录接口获取user\_token，然后在其他接口中带入user\_token、version\_code和device参数就可以调用其他接口了。
+
+通过登录接口获取user\_token时，需要通过帐号密码获取，version\_code填写3.13.0即可（后续版本的接口是向下兼容的），device填写ios或android。
 
