@@ -4,9 +4,11 @@
 
 #### 接口文档地址
 
-爱客CRM独立版和钉钉版：[http://test.ikcrm.com:8008/api\_doc/](http://test.ikcrm.com:8008/api_doc/)
+爱客CRM独立版和钉钉版的接口文档地址均为：[http://test.ikcrm.com:8008/api\_doc/](http://test.ikcrm.com:8008/api_doc/)
 
-独立版
+#### 独立版
 
 如果你使用的是独立版首次使用API接口，需企业管理员在企业管理后台里的【功能设置】中开通API【成为开发者】获取“开发者ID”，根据“App ID”和“App Secret”参数结合IP后就可调用API接口使用。
+
+
 
