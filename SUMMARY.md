@@ -152,7 +152,7 @@
     * 呼入统计报表
     * 呼出流水报表
     * 呼入流水报表
-  * [工作](chapter1/gong-zuo-bao-gao.md)
+  * [工作报告](chapter1/gong-zuo-bao-gao.md)
     * 写工作报告
     * 编辑工作报告
     * 删除工作报告
@@ -165,12 +165,12 @@
     * 点评工作报告
     * 回复点评
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
-    * 写跟进
-    * 导入跟进记录
-    * 删除跟进记录
-    * 导出跟进记录
-    * 评论跟进记录
-    * 回复评论
+    * [写跟进](chapter1/gen-jin-ji-lu/xie-gen-jin.md)
+    * [导入跟进记录](chapter1/gen-jin-ji-lu/dao-ru-gen-jin-ji-lu.md)
+    * [删除跟进记录](chapter1/gen-jin-ji-lu/shan-chu-gen-jin-ji-lu.md)
+    * [导出跟进记录](chapter1/gen-jin-ji-lu/dao-chu-gen-jin-ji-lu.md)
+    * [评论跟进记录](chapter1/gen-jin-ji-lu/ping-lun-gen-jin-ji-lu.md)
+    * [回复评论](chapter1/gen-jin-ji-lu/hui-fu-ping-lun.md)
   * [业绩目标](chapter1/ye-ji-mu-biao.md)
     * 设置业绩目标
     * 查看业绩目标完成情况
