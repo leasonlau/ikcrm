@@ -107,13 +107,13 @@
     * 复制合同
   * [回款](chapter1/hui-kuan.md)
     * [新增回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
-    * 导入回款计划
-    * 导出回款计划
-    * 新增回款记录
-    * 导入回款记录
-    * 导出回款记录
-    * 新增开票记录
-    * 导入开票记录
+    * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
+    * [导出回款计划](chapter1/hui-kuan/dao-chu-hui-kuan-ji-hua.md)
+    * [新增回款记录](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-lu.md)
+    * [导入回款记录](chapter1/hui-kuan/dao-ru-hui-kuan-ji-lu.md)
+    * [导出回款记录](chapter1/hui-kuan/dao-chu-hui-kuan-ji-lu.md)
+    * [新增开票记录](chapter1/hui-kuan/xin-zeng-kai-piao-ji-lu.md)
+    * [导入开票记录](chapter1/hui-kuan/dao-ru-kai-piao-ji-lu.md)
     * [导出开票记录](chapter1/hui-kuan/dao-chu-kai-piao-ji-lu.md)
   * [产品](chapter1/chan-pin.md)
     * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
