@@ -175,7 +175,7 @@
     * 设置业绩目标
     * 查看业绩目标完成情况
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
-    * 新增费用
+    * [新增费用](chapter1/fei-yong-bao-xiao/xin-zeng-fei-yong.md)
     * 新增报销单
     * 全部报销单
     * 我的报销单
