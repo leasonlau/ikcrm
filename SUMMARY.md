@@ -214,7 +214,7 @@
   * [公司信息](xi-tong-she-zhi/gong-si-xin-xi.md)
   * [公告管理](xi-tong-she-zhi/gong-gao-guan-li.md)
   * [业绩目标](xi-tong-she-zhi/ye-ji-mu-biao.md)
-  * 业绩提成
+  * [业绩提成](xi-tong-she-zhi/ye-ji-ti-cheng.md)
   * [查重设置](xi-tong-she-zhi/cha-zhong-she-zhi.md)
   * [客户公海](xi-tong-she-zhi/ke-hu-gong-hai.md)
   * [工作报告](xi-tong-she-zhi/gong-zuo-bao-gao.md)
