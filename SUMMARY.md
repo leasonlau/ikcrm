@@ -72,20 +72,20 @@
     * [转移给他人](chapter1/shang-ji/zhuan-yi-gei-ta-ren.md)
     * [添加协作人](chapter1/shang-ji/tian-jia-xie-zuo-ren.md)
     * [编辑商机](chapter1/shang-ji/bian-ji-shang-ji.md)
-    * 删除商机
-    * 全部商机
-    * 我的商机
-    * 我下属的商机
-    * 我协作的商机
-    * 我下属协作的商机
-    * 导出商机
-    * 添加联系人
-    * 添加产品
-    * 添加费用
-    * 转成合同
+    * [删除商机](chapter1/shang-ji/shan-chu-shang-ji.md)
+    * [全部商机](chapter1/shang-ji/quan-bu-shang-ji.md)
+    * [我的商机](chapter1/shang-ji/wo-de-shang-ji.md)
+    * [我下属的商机](chapter1/shang-ji/wo-xia-shu-de-shang-ji.md)
+    * [我协作的商机](chapter1/shang-ji/wo-xie-zuo-de-shang-ji.md)
+    * [我下属协作的商机](chapter1/shang-ji/wo-xia-shu-xie-zuo-de-shang-ji.md)
+    * [导出商机](chapter1/shang-ji/dao-chu-shang-ji.md)
+    * [添加联系人](chapter1/shang-ji/tian-jia-lian-xi-ren.md)
+    * [添加产品](chapter1/shang-ji/tian-jia-chan-pin.md)
+    * [添加费用](chapter1/shang-ji/tian-jia-fei-yong.md)
+    * [转成合同](chapter1/shang-ji/zhuan-cheng-he-tong.md)
   * [合同](chapter1/he-tong.md)
     * [新增合同](chapter1/he-tong/xin-zeng-he-tong.md)
-    * 导入合同
+    * [导入合同](chapter1/he-tong/dao-ru-he-tong.md)
     * 导入合同跟进记录
     * 转移给他人
     * 添加协作人
