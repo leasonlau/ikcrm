@@ -1,16 +1,16 @@
-# 目录
+# Summary
 
 * [爱客CRM简介](README.md)
 * [爱客CRM功能](chapter1.md)
   * [线索](chapter1/xian-suo.md)
     * [新增线索](chapter1/xian-suo/xin-zeng-xian-suo.md)
     * [导入线索](chapter1/xian-suo/dao-ru-xian-suo.md)
-    * 扫描名片
+    * [扫描名片](chapter1/xian-suo/sao-miao-ming-pian.md)
     * [线索查重](chapter1/xian-suo/xian-suo-cha-zhong.md)
-    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)线索
-    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)线索
-    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)线索
-    * 全部线索
+    * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
+    * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
+    * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
+    * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
     * 我的线索
     * 我下属的线索
     * 已转客户的线索
@@ -66,9 +66,9 @@
     * 导出联系人
     * [联系人角色](chapter1/lian-xi-ren/lian-xi-ren-jiao-se.md)
   * [商机](chapter1/shang-ji.md)
-    * 新增商机
-    * 导入商机
-    * 导入商机跟进记录
+    * [新增商机](chapter1/shang-ji/xin-zeng-shang-ji.md)
+    * [导入商机](chapter1/shang-ji/dao-ru-shang-ji.md)
+    * [导入商机跟进记录](chapter1/shang-ji/dao-ru-shang-ji-gen-jin-ji-lu.md)
     * 转移给他人
     * 添加协作人
     * 编辑商机
@@ -84,7 +84,7 @@
     * 添加费用
     * 转成合同
   * [合同](chapter1/he-tong.md)
-    * 新增合同
+    * [新增合同](chapter1/he-tong/xin-zeng-he-tong.md)
     * 导入合同
     * 导入合同跟进记录
     * 转移给他人
@@ -106,7 +106,7 @@
     * 添加费用
     * 复制合同
   * [回款](chapter1/hui-kuan.md)
-    * 新增回款计划
+    * [新增回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
     * 导入回款计划
     * 导出回款计划
     * 新增回款记录
@@ -114,7 +114,7 @@
     * 导出回款记录
     * 新增开票记录
     * 导入开票记录
-    * 导出开票记录
+    * [导出开票记录](chapter1/hui-kuan/dao-chu-kai-piao-ji-lu.md)
   * [产品](chapter1/chan-pin.md)
     * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
     * 导入产品
@@ -152,7 +152,7 @@
     * 呼入统计报表
     * 呼出流水报表
     * 呼入流水报表
-  * [工作](chapter1/gong-zuo-bao-gao.md)报告
+  * [工作](chapter1/gong-zuo-bao-gao.md)
     * 写工作报告
     * 编辑工作报告
     * 删除工作报告
@@ -197,7 +197,7 @@
     * 批量拨号
   * 工商查询
   * 风险信息订阅
-  * 业绩提成
+  * [业绩提成](chapter1/ye-ji-ti-cheng.md)
   * [知识库](chapter1/zhi-shi-ku.md)
   * [工作台](chapter1/gong-zuo-tai.md)
   * 通知中心
@@ -253,6 +253,4 @@
   * 关于安全
     * 帐号安全
     * 数据安全
-
-
 
