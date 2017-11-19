@@ -153,17 +153,17 @@
     * 呼出流水报表
     * 呼入流水报表
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
-    * 写工作报告
-    * 编辑工作报告
-    * 删除工作报告
-    * 提交给我的报告
-    * 我提交的报告
-    * 我下属的报告
-    * 报告统计
-    * 导出工作报告
-    * 批阅工作报告
-    * 点评工作报告
-    * 回复点评
+    * [写工作报告](chapter1/gong-zuo-bao-gao/xie-gong-zuo-bao-gao.md)
+    * [编辑工作报告](chapter1/gong-zuo-bao-gao/bian-ji-gong-zuo-bao-gao.md)
+    * [删除工作报告](chapter1/gong-zuo-bao-gao/shan-chu-gong-zuo-bao-gao.md)
+    * [提交给我的报告](chapter1/gong-zuo-bao-gao/ti-jiao-gei-wo-de-bao-gao.md)
+    * [我提交的报告](chapter1/gong-zuo-bao-gao/wo-ti-jiao-de-bao-gao.md)
+    * [我下属的报告](chapter1/gong-zuo-bao-gao/wo-xia-shu-de-bao-gao.md)
+    * [报告统计](chapter1/gong-zuo-bao-gao/bao-gao-tong-ji.md)
+    * [导出工作报告](chapter1/gong-zuo-bao-gao/dao-chu-gong-zuo-bao-gao.md)
+    * [批阅工作报告](chapter1/gong-zuo-bao-gao/pi-yue-gong-zuo-bao-gao.md)
+    * [点评工作报告](chapter1/gong-zuo-bao-gao/dian-ping-gong-zuo-bao-gao.md)
+    * [回复点评](chapter1/gong-zuo-bao-gao/hui-fu-dian-ping.md)
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
     * [写跟进](chapter1/gen-jin-ji-lu/xie-gen-jin.md)
     * [导入跟进记录](chapter1/gen-jin-ji-lu/dao-ru-gen-jin-ji-lu.md)
