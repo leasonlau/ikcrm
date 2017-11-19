@@ -176,8 +176,8 @@
     * 查看业绩目标完成情况
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
     * [新增费用](chapter1/fei-yong-bao-xiao/xin-zeng-fei-yong.md)
-    * 新增报销单
-    * 全部报销单
+    * [新增报销单](chapter1/fei-yong-bao-xiao/xin-zeng-bao-xiao-dan.md)
+    * [全部报销单](chapter1/fei-yong-bao-xiao/quan-bu-bao-xiao-dan.md)
     * 我的报销单
     * 全部费用
     * 我的费用
