@@ -184,7 +184,7 @@
     * 导出报销单
     * 导出费用
   * [数据上报](chapter1/shu-ju-shang-bao.md)
-    * 新增数据上报
+    * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
     * 购买短信
     * 发送短信
