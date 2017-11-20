@@ -24,20 +24,20 @@
     * [转移给他人](chapter1/ke-hu/zhuan-yi-gei-ta-ren.md)
     * [转移至公海](chapter1/ke-hu/zhuan-yi-zhi-gong-hai.md)
     * [添加协作人](chapter1/ke-hu/tian-jia-xie-zuo-ren.md)
-    * 合并客户
-    * 编辑客户
-    * 删除客户
+    * [合并客户](chapter1/ke-hu/he-bing-ke-hu.md)
+    * [编辑客户](chapter1/ke-hu/bian-ji-ke-hu.md)
+    * [删除客户](chapter1/ke-hu/shan-chu-ke-hu.md)
     * 全部客户
     * 我的客户
-    * 我下属的客户
+    * [我下属的客户](chapter1/ke-hu/wo-xia-shu-de-ke-hu.md)
     * 我协作的客户
-    * 我下属协作的客户
+    * [我下属协作的客户](chapter1/ke-hu/wo-xia-shu-xie-zuo-de-ke-hu.md)
     * 待审批的客户
-    * 导出客户
+    * [导出客户](chapter1/ke-hu/dao-chu-ke-hu.md)
     * 添加联系人
     * 添加商机
-    * 添加合同
-    * 添加费用
+    * [添加合同](chapter1/ke-hu/tian-jia-he-tong.md)
+    * [添加费用](chapter1/ke-hu/tian-jia-fei-yong.md)
     * 下级客户
   * [客户公海](chapter1/ke-hu-gong-hai.md)
     * 公海管理员
@@ -85,7 +85,7 @@
     * 转成合同
   * [合同](chapter1/he-tong.md)
     * [新增合同](chapter1/he-tong/xin-zeng-he-tong.md)
-    * 导入合同
+    * [导入合同](chapter1/he-tong/dao-ru-he-tong.md)
     * 导入合同跟进记录
     * 转移给他人
     * 添加协作人
