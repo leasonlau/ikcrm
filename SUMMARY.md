@@ -197,7 +197,7 @@
     * 批量拨号
   * 工商查询
   * 风险信息订阅
-  * 业绩提成
+  * [业绩提成](chapter1/ye-ji-ti-cheng.md)
   * [知识库](chapter1/zhi-shi-ku.md)
   * [工作台](chapter1/gong-zuo-tai.md)
   * 通知中心
