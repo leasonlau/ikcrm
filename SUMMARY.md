@@ -127,7 +127,7 @@
     * 删除产品分类
     * 导出产品
   * [报表中心](chapter1/bao-biao-zhong-xin.md)
-    * 跟进记录报表
+    * [跟进记录报表](chapter1/bao-biao-zhong-xin/gen-jin-ji-lu-bao-biao.md)
     * 销售预测报表
     * [销售漏斗报表](chapter1/bao-biao-zhong-xin/xiao-shou-lou-dou-bao-biao.md)
     * [业务新增汇总报表](chapter1/bao-biao-zhong-xin/ye-wu-xin-zeng-hui-zong-bao-biao.md)
