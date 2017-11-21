@@ -141,7 +141,7 @@
     * [客户数量排名报表](chapter1/bao-biao-zhong-xin/ke-hu-shu-liang-pai-ming-bao-biao.md)
     * [业绩目标完成度排名报表](chapter1/bao-biao-zhong-xin/ye-ji-mu-biao-wan-cheng-du-pai-ming-bao-biao.md)
     * [销售额排名报表](chapter1/bao-biao-zhong-xin/xiao-shou-e-pai-ming-bao-biao.md)
-    * 线索转化率
+    * [线索转化率](chapter1/bao-biao-zhong-xin/xian-suo-zhuan-hua-lv.md)
     * 工作报告报表
     * 客户类型统计报表
     * 数据上报报表
