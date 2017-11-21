@@ -139,7 +139,7 @@
     * [拜访签到报表](chapter1/bao-biao-zhong-xin/bai-fang-qian-dao-bao-biao.md)
     * [销售回款排名报表](chapter1/bao-biao-zhong-xin/xiao-shou-hui-kuan-pai-ming-bao-biao.md)
     * [客户数量排名报表](chapter1/bao-biao-zhong-xin/ke-hu-shu-liang-pai-ming-bao-biao.md)
-    * 业绩目标完成度排名报表
+    * [业绩目标完成度排名报表](chapter1/bao-biao-zhong-xin/ye-ji-mu-biao-wan-cheng-du-pai-ming-bao-biao.md)
     * 销售额排名报表
     * 线索转化率
     * 工作报告报表
