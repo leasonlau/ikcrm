@@ -49,7 +49,7 @@
     * [删除公海客户](chapter1/ke-hu-gong-hai/shan-chu-gong-hai-ke-hu.md)
     * [导出公海客户](chapter1/ke-hu-gong-hai/dao-chu-gong-hai-ke-hu.md)
     * [公海成员](chapter1/ke-hu-gong-hai/gong-hai-cheng-yuan.md)
-    * 抢客户
+    * [抢客户](chapter1/ke-hu-gong-hai/qiang-ke-hu.md)
     * 所属公海
   * [联系人](chapter1/lian-xi-ren.md)
     * [新增联系人](chapter1/lian-xi-ren/xin-zeng-lian-xi-ren.md)
