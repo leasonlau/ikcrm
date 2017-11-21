@@ -43,7 +43,7 @@
     * [公海管理员](chapter1/ke-hu-gong-hai/gong-hai-guan-li-yuan.md)
     * [导入客户至公海](chapter1/ke-hu-gong-hai/dao-ru-ke-hu-zhi-gong-hai.md)
     * [转移给他人](chapter1/ke-hu-gong-hai/zhuan-yi-gei-ta-ren.md)
-    * 转移到其他公海
+    * [转移到其他公海](chapter1/ke-hu-gong-hai/zhuan-yi-dao-qi-ta-gong-hai.md)
     * 合并公海客户
     * 编辑公海客户
     * 删除公海客户
