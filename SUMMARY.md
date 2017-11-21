@@ -138,7 +138,7 @@
     * [合同汇总报表](chapter1/bao-biao-zhong-xin/he-tong-hui-zong-bao-biao.md)
     * [拜访签到报表](chapter1/bao-biao-zhong-xin/bai-fang-qian-dao-bao-biao.md)
     * [销售回款排名报表](chapter1/bao-biao-zhong-xin/xiao-shou-hui-kuan-pai-ming-bao-biao.md)
-    * 客户数量排名报表
+    * [客户数量排名报表](chapter1/bao-biao-zhong-xin/ke-hu-shu-liang-pai-ming-bao-biao.md)
     * 业绩目标完成度排名报表
     * 销售额排名报表
     * 线索转化率
