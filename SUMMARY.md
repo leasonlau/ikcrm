@@ -133,7 +133,7 @@
     * [业务新增汇总报表](chapter1/bao-biao-zhong-xin/ye-wu-xin-zeng-hui-zong-bao-biao.md)
     * [业绩目标完成度报表](chapter1/bao-biao-zhong-xin/ye-ji-mu-biao-wan-cheng-du-bao-biao.md)
     * [回款计划汇总报表](chapter1/bao-biao-zhong-xin/hui-kuan-ji-hua-hui-zong-bao-biao.md)
-    * 产品销售汇总报表
+    * [产品销售汇总报表](chapter1/bao-biao-zhong-xin/chan-pin-xiao-shou-hui-zong-bao-biao.md)
     * 赢单商机汇总报表
     * 合同汇总报表
     * 拜访签到报表
