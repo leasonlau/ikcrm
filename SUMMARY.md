@@ -10,9 +10,9 @@
     * [转移](chapter1/xian-suo/xian-suo-zhuan-yi.md)
     * [编辑](chapter1/xian-suo/pi-liang-bian-ji.md)
     * [删除](chapter1/xian-suo/pi-liang-shan-chu.md)
-    * 全部线索
-    * 我的线索
-    * 我下属的线索
+    * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
+    * [我的线索](chapter1/xian-suo/wo-de-xian-suo.md)
+    * [我下属的线索](chapter1/xian-suo/wo-xia-shu-de-xian-suo.md)
     * 已转客户的线索
     * 导出线索
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
@@ -107,7 +107,7 @@
     * 复制合同
   * [回款](chapter1/hui-kuan.md)
     * 新增回款计划
-    * 导入回款计划
+    * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
     * 导出回款计划
     * 新增回款记录
     * 导入回款记录
@@ -202,7 +202,7 @@
   * [工作台](chapter1/gong-zuo-tai.md)
   * 通知中心
   * 提醒
-  * 附件
+  * [附件](chapter1/fu-jian.md)
   * 操作日志
   * [快捷编辑](chapter1/kuai-jie-bian-ji.md)
   * [自定义筛选](chapter1/zi-ding-yi-shai-xuan.md)
@@ -232,21 +232,22 @@
   * [组织架构](chang-jian-wen-ti/zu-zhi-jia-gou.md)
   * [权限相关](chang-jian-wen-ti/quan-xian-xiang-guan.md)
   * [导入导出](chang-jian-wen-ti/dao-ru-dao-chu.md)
-  * 客户公海
+  * [客户公海](chang-jian-wen-ti/ke-hu-gong-hai.md)
   * [查重相关](chang-jian-wen-ti/cha-zhong-xiang-guan.md)
-  * 线索管理
+  * [线索管理](chang-jian-wen-ti/xian-suo-guan-li.md)
   * [商机管理](chang-jian-wen-ti/shang-ji-guan-li.md)
-  * 合同回款
-  * 短信群发
-  * 通知提醒
-  * 附件上传
-  * 电销版—无线话机
-  * 电销版—电话宝
-  * 钉钉相关
+  * [合同回款](chang-jian-wen-ti/he-tong-hui-kuan.md)
+  * [短信群发](chang-jian-wen-ti/duan-xin-qun-fa.md)
+  * [通知提醒](chang-jian-wen-ti/tong-zhi-ti-xing.md)
+  * [附件上传](chang-jian-wen-ti/fu-jian-shang-chuan.md)
+  * [电销版—无线话机](chang-jian-wen-ti/dian-xiao-ban-2014-wu-xian-hua-ji.md)
+  * [电销版—电话宝](chang-jian-wen-ti/dian-xiao-ban-2014-dian-hua-bao.md)
+  * [钉钉相关](chang-jian-wen-ti/ding-ding-xiang-guan.md)
   * [打通进销存](chang-jian-wen-ti/da-tong-jin-xiao-cun.md)
   * [API接口](chang-jian-wen-ti/apidui-jie.md)
     * [API接口怎么用](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
     * [爱客CRM都有哪些API接口](chang-jian-wen-ti/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
+
   * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
     * 帐号安全
     * 数据安全
