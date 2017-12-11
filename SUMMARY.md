@@ -26,7 +26,7 @@
     * [导入客户](chapter1/ke-hu/dao-ru-ke-hu.md)
     * [导入客户跟进记录](chapter1/ke-hu/dao-ru-ke-hu-gen-jin-ji-lu.md)
     * [客户查重](chapter1/ke-hu/ke-hu-cha-zhong.md)
-    * 转移给他人
+    * [转移给他人](chapter1/ke-hu/zhuan-yi-gei-ta-ren.md)
     * 转移至公海
     * 添加协作人
     * 合并客户
@@ -57,8 +57,8 @@
     * 抢客户
     * 所属公海
   * [联系人](chapter1/lian-xi-ren.md)
-    * 新增联系人
-    * 导入联系人
+    * [新增联系人](chapter1/lian-xi-ren/xin-zeng-lian-xi-ren.md)
+    * [导入联系人](chapter1/lian-xi-ren/dao-ru-lian-xi-ren.md)
     * 扫描名片
     * 联系人查重
     * 编辑联系人
@@ -178,7 +178,7 @@
     * [导出报销单](chapter1/fei-yong-bao-xiao/dao-chu-bao-xiao-dan.md)
     * [导出费用](chapter1/fei-yong-bao-xiao/dao-chu-fei-yong.md)
   * [数据上报](chapter1/shu-ju-shang-bao.md)
-    * 新增数据上报
+    * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
     * [查看数据上报](chapter1/shu-ju-shang-bao/cha-kan-shu-ju-shang-bao.md)
     * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
