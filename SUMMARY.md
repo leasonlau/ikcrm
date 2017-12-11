@@ -111,57 +111,6 @@
     * [添加费用](chapter1/he-tong/tian-jia-fei-yong.md)
     * [复制合同](chapter1/he-tong/fu-zhi-he-tong.md)
   * [回款](chapter1/hui-kuan.md)
-    * 新增回款计划
-    * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
-    * 新增商机
-    * 导入商机
-    * 导入商机跟进记录
-    * 转移给他人
-    * 添加协作人
-    * 编辑商机
-    * 删除商机
-    * 全部商机
-    * 我的商机
-    * 我下属的商机
-    * 我协作的商机
-    * 我下属协作的商机
-    * 导出商机
-    * 添加联系人
-    * 添加产品
-    * 添加费用
-    * 转成合同
-  * [合同](chapter1/he-tong.md)
-    * 新增合同
-    * 导入合同
-    * 导入合同跟进记录
-    * 转移给他人
-    * 添加协作人
-    * 编辑合同
-    * 删除合同
-    * 全部合同
-    * 我的合同
-    * 我下属的合同
-    * 我协作的合同
-    * 我下属协作的合同
-    * 待审批的合同
-    * 我的草稿
-    * 导出合同
-    * 配置回款计划
-    * 添加回款记录
-    * 添加开票记录
-    * 添加产品
-    * 添加费用
-    * 复制合同
-  * [回款](chapter1/hui-kuan.md)
-    * 新增回款计划
-    * 导入回款计划
-    * 导出回款计划
-    * 新增回款记录
-    * 导入回款记录
-    * 导出回款记录
-    * 新增开票记录
-    * 导入开票记录
-    * 导出开票记录
     * [新增回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
     * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
     * [导出回款计划](chapter1/hui-kuan/dao-chu-hui-kuan-ji-hua.md)
@@ -173,15 +122,15 @@
     * [导出开票记录](chapter1/hui-kuan/dao-chu-kai-piao-ji-lu.md)
   * [产品](chapter1/chan-pin.md)
     * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
-    * 导入产品
-    * 编辑产品
-    * 删除产品
-    * 禁用产品
-    * 启用产品
-    * 新增产品分类
-    * 编辑产品分类
-    * 删除产品分类
-    * 导出产品
+    * [导入产品](chapter1/chan-pin/dao-ru-chan-pin.md)
+    * [编辑产品](chapter1/chan-pin/bian-ji-chan-pin.md)
+    * [删除产品](chapter1/chan-pin/shan-chu-chan-pin.md)
+    * [禁用产品](chapter1/chan-pin/jin-yong-chan-pin.md)
+    * [启用产品](chapter1/chan-pin/qi-yong-chan-pin.md)
+    * [新增产品分类](chapter1/chan-pin/xin-zeng-chan-pin-fen-lei.md)
+    * [编辑产品分类](chapter1/chan-pin/bian-ji-chan-pin-fen-lei.md)
+    * [删除产品分类](chapter1/chan-pin/shan-chu-chan-pin-fen-lei.md)
+    * [导出产品](chapter1/chan-pin/dao-chu-chan-pin.md)
   * [报表中心](chapter1/bao-biao-zhong-xin.md)
     * [跟进记录报表](chapter1/bao-biao-zhong-xin/gen-jin-ji-lu-bao-biao.md)
     * [销售预测报表](chapter1/bao-biao-zhong-xin/xiao-shou-yu-ce-bao-biao.md)
@@ -230,7 +179,7 @@
     * [导出费用](chapter1/fei-yong-bao-xiao/dao-chu-fei-yong.md)
   * [数据上报](chapter1/shu-ju-shang-bao.md)
     * 新增数据上报
-    * 查看数据上报
+    * [查看数据上报](chapter1/shu-ju-shang-bao/cha-kan-shu-ju-shang-bao.md)
     * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
     * [购买短信](chapter1/duan-xin-qun-fa/gou-mai-duan-xin.md)
