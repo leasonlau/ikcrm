@@ -173,17 +173,6 @@
     * [导出开票记录](chapter1/hui-kuan/dao-chu-kai-piao-ji-lu.md)
   * [产品](chapter1/chan-pin.md)
     * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
-    * [导入产品](chapter1/chan-pin/dao-ru-chan-pin.md)
-    * [编辑产品](chapter1/chan-pin/bian-ji-chan-pin.md)
-    * [删除产品](chapter1/chan-pin/shan-chu-chan-pin.md)
-    * [禁用产品](chapter1/chan-pin/jin-yong-chan-pin.md)
-    * [启用产品](chapter1/chan-pin/qi-yong-chan-pin.md)
-    * [新增产品分类](chapter1/chan-pin/xin-zeng-chan-pin-fen-lei.md)
-    * [编辑产品分类](chapter1/chan-pin/bian-ji-chan-pin-fen-lei.md)
-    * [删除产品分类](chapter1/chan-pin/shan-chu-chan-pin-fen-lei.md)
-    * [导出产品](chapter1/chan-pin/dao-chu-chan-pin.md)
-  * [产品](chapter1/chan-pin.md)
-    * [新增产品](chapter1/chan-pin/xin-zeng-chan-pin.md)
     * 导入产品
     * 编辑产品
     * 删除产品
