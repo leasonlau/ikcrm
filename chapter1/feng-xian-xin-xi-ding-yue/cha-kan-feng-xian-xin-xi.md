@@ -6,5 +6,5 @@
 
 点击“企业名称”旁边的“主页”按钮可进入企业的详情页面，在这里查看该企业相关的的全部工商信息
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml\wps8179.tmp.jpg)
+![](/assets/风险import08.png)
 
