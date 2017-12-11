@@ -178,7 +178,7 @@
     * [导出报销单](chapter1/fei-yong-bao-xiao/dao-chu-bao-xiao-dan.md)
     * [导出费用](chapter1/fei-yong-bao-xiao/dao-chu-fei-yong.md)
   * [数据上报](chapter1/shu-ju-shang-bao.md)
-    * 新增数据上报
+    * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
     * [查看数据上报](chapter1/shu-ju-shang-bao/cha-kan-shu-ju-shang-bao.md)
     * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
