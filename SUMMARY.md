@@ -255,6 +255,7 @@
   * [呼叫中心](xi-tong-she-zhi/hu-jiao-zhong-xin.md)
   * [短信设置](xi-tong-she-zhi/duan-xin-she-zhi.md)
   * [自定义业务](xi-tong-she-zhi/zi-ding-yi-ye-wu.md)
+  * [自定义业务模板](xi-tong-she-zhi/zi-ding-yi-ye-wu-mo-ban.md)
   * [自定义业务字段](xi-tong-she-zhi/zi-ding-yi-ye-wu-zi-duan.md)
   * [自定义业务参数](xi-tong-she-zhi/zi-ding-yi-ye-wu-can-shu.md)
   * [自定义审批](xi-tong-she-zhi/zi-ding-yi-shen-pi.md)
