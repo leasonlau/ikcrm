@@ -14,5 +14,5 @@
 
 用户自定义字段支持筛选的类型有“单选下拉”、“多选下拉”、“时间”三种类型
 
-![](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml\wps70CE.tmp.jpg)
+![](/assets/自定义筛选import.png)
 
