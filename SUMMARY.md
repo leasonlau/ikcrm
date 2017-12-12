@@ -190,7 +190,7 @@
     * [通话记录](chapter1/hu-jiao-zhong-xin/tong-hua-ji-lu.md)
     * [通话统计](chapter1/hu-jiao-zhong-xin/tong-hua-tong-ji.md)
     * [批量拨号](chapter1/hu-jiao-zhong-xin/pi-liang-bo-hao.md)
-  * [操作日志](chapter1/cao-zuo-ri-zhi.md)
+  * [日志查询](chapter1/cao-zuo-ri-zhi.md)
   * [工商查询](chapter1/gong-shang-cha-xun.md)
     * [开启工商查询](chapter1/gong-shang-cha-xun/1.md)
     * [使用方法](chapter1/gong-shang-cha-xun/shi-yong-fang-fa.md)
