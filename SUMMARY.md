@@ -13,12 +13,7 @@
     * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
     * [我的线索](chapter1/xian-suo/wo-de-xian-suo.md)
     * [我下属的线索](chapter1/xian-suo/wo-xia-shu-de-xian-suo.md)
-    * [我的线索](chapter1/xian-suo/wo-de-xian-suo.md)
-    * [我下属的线索](chapter1/xian-suo/wo-xia-shu-de-xian-suo.md)
-    * [全部线索](chapter1/xian-suo/quan-bu-xian-suo.md)
-    * 我的线索
-    * 我下属的线索
-    * 已转客户的线索
+    * [已转客户的线索](chapter1/xian-suo/yi-zhuan-ke-hu-de-xian-suo.md)
     * [导出线索](chapter1/xian-suo/dao-chu-xian-suo.md)
     * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
   * [客户](chapter1/ke-hu.md)
@@ -45,8 +40,8 @@
     * 添加费用
     * 下级客户
   * [客户公海](chapter1/ke-hu-gong-hai.md)
-    * 公海管理员
-    * 导入客户至公海
+    * [公海管理员](chapter1/ke-hu-gong-hai/gong-hai-guan-li-yuan.md)
+    * [导入客户至公海](chapter1/ke-hu-gong-hai/dao-ru-ke-hu-zhi-gong-hai.md)
     * 转移给他人
     * 转移到其他公海
     * 合并公海客户
@@ -145,14 +140,14 @@
     * 销售回款排名报表
     * 客户数量排名报表
     * 业绩目标完成度排名报表
-    * 销售额排名报表
-    * 线索转化率
+    * [销售额排名报表](chapter1/bao-biao-zhong-xin/xiao-shou-e-pai-ming-bao-biao.md)
+    * [线索转化率](chapter1/bao-biao-zhong-xin/xian-suo-zhuan-hua-lv.md)
     * 工作报告报表
     * 客户类型统计报表
     * 数据上报报表
     * 短信转化率报表
-    * 短信到达率报表
-    * 自定义报表
+    * [短信到达率报表](chapter1/bao-biao-zhong-xin/duan-xin-dao-da-lv-bao-biao.md)
+    * [自定义报表](chapter1/bao-biao-zhong-xin/zi-ding-yi-bao-biao.md)
     * 呼出统计报表
     * 呼入统计报表
     * 呼出流水报表
@@ -190,7 +185,7 @@
     * [通话记录](chapter1/hu-jiao-zhong-xin/tong-hua-ji-lu.md)
     * [通话统计](chapter1/hu-jiao-zhong-xin/tong-hua-tong-ji.md)
     * [批量拨号](chapter1/hu-jiao-zhong-xin/pi-liang-bo-hao.md)
-  * [操作日志](chapter1/cao-zuo-ri-zhi.md)
+  * [日志查询](chapter1/cao-zuo-ri-zhi.md)
   * [工商查询](chapter1/gong-shang-cha-xun.md)
     * [开启工商查询](chapter1/gong-shang-cha-xun/1.md)
     * [使用方法](chapter1/gong-shang-cha-xun/shi-yong-fang-fa.md)
