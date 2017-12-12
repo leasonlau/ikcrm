@@ -1,8 +1,10 @@
+# 业绩提成
+
 完成业绩提成计算设置共分为四步：第一步设置业绩指标；第二步设置提成规则；第三步设置岗位并选择提成规则；第四步设置岗位底薪。
 
 ![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml\wpsBACA.tmp.jpg)
 
-第一步，设置业绩指标。
+**第一步，设置业绩指标**
 
 （1）选择指标类型，包括合同金额、合同回款金额、合同毛利等。如选择合同金额，表示该业绩指标将统计合同的合同金额，并作为提成计算的依据。
 
@@ -14,7 +16,7 @@
 
 ![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml\wpsBACB.tmp.jpg)
 
-第二步，设置提成规则。
+**第二步，设置提成规则**
 
 提成规则分为绝对值全额累进提成规则和绝对值超额提成规则，两种提成规则均为阶梯式，根据用户的业绩指标完成额不同，对应不同档的提成系数。
 
@@ -34,7 +36,7 @@
 
 ![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml\wpsBADB.tmp.jpg)
 
-第三步，设置岗位。
+**第三步，设置岗位**
 
 （1）选择用户，每个用户只可关联一个岗位；
 
@@ -42,11 +44,13 @@
 
 ![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml\wpsBAEC.tmp.jpg)
 
-第四部，设置底薪。
+**第四部，设置底薪**
 
 （1）按岗位设置底薪，每个岗位对应一个相同的底薪；
 
 （2）设置特殊员工的底薪，岗位中也设置了该员工的底薪时，以特殊员工处所设底薪为准。
 
 ![](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml\wpsBAED.tmp.jpg)
+
+以上四个步骤设置完毕，就可以到前台计算提成了哦！
 
