@@ -284,4 +284,6 @@
   * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
     * [帐号安全](chang-jian-wen-ti/guan-yu-an-quan/zhang-hao-an-quan.md)
     * 数据安全
+* [常见问题2](chang-jian-wen-ti-2.md)
+  * [数据查看权限问题](chang-jian-wen-ti-2/bu-men-yu-quan-xian.md)
 
