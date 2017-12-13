@@ -286,5 +286,4 @@
     * 数据安全
 * [常见问题2](chang-jian-wen-ti-2.md)
   * [数据查看权限问题](chang-jian-wen-ti-2/bu-men-yu-quan-xian.md)
-    * [我已经把张三添加为客户的协作人了，为什么他在新增商机的时对应客户找不到这个客户？](chang-jian-wen-ti-2/bu-men-yu-quan-xian/wo-yi-jing-ba-zhang-san-tian-jia-wei-ke-hu-de-xie-zuo-ren-le-ff0c-wei-shi-yao-ta-zai-xin-zeng-shang-ji-de-shi-dui-ying-ke-hu-zhao-bu-dao-zhe-ge-ke-hu-ff1f.md)
 
