@@ -279,4 +279,11 @@
   * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
     * [帐号安全](chang-jian-wen-ti/guan-yu-an-quan/zhang-hao-an-quan.md)
     * 数据安全
+* [常见问题2](chang-jian-wen-ti-2.md)
+  * [数据查看权限问题](chang-jian-wen-ti-2/shu-ju-cha-kan-quan-xian-wen-ti.md)
+  * 公海问题
+  * 组织架构问题
+  * 报表统计问题
+  * 审批问题
+  * 其他问题
 
