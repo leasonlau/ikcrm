@@ -281,7 +281,7 @@
     * 数据安全
 * [常见问题2](chang-jian-wen-ti-2.md)
   * [数据查看权限问题](chang-jian-wen-ti-2/shu-ju-cha-kan-quan-xian-wen-ti.md)
-  * [可见范围](chang-jian-wen-ti-2/zu-zhi-jia-gou-wen-ti.md)
+  * [钉钉版组织架构](chang-jian-wen-ti-2/zu-zhi-jia-gou-wen-ti.md)
   * [公海自动划入问题](chang-jian-wen-ti-2/gong-hai-wen-ti.md)
   * 报表统计问题
   * 审批问题
