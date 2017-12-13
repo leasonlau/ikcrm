@@ -281,8 +281,8 @@
     * 数据安全
 * [常见问题2](chang-jian-wen-ti-2.md)
   * [数据查看权限问题](chang-jian-wen-ti-2/shu-ju-cha-kan-quan-xian-wen-ti.md)
-  * 公海问题
-  * 组织架构问题
+  * [组织架构问题](chang-jian-wen-ti-2/zu-zhi-jia-gou-wen-ti.md)
+  * [公海自动划入问题](chang-jian-wen-ti-2/gong-hai-wen-ti.md)
   * 报表统计问题
   * 审批问题
   * 其他问题
