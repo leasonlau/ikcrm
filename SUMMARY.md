@@ -45,7 +45,7 @@
     * 添加费用
     * 下级客户
   * [客户公海](chapter1/ke-hu-gong-hai.md)
-    * 公海管理员
+    * [公海管理员](chapter1/ke-hu-gong-hai/gong-hai-guan-li-yuan.md)
     * 导入客户至公海
     * 转移给他人
     * 转移到其他公海
@@ -286,5 +286,9 @@
     * 数据安全
 * [常见问题2](chang-jian-wen-ti-2.md)
   * [数据查看权限问题](chang-jian-wen-ti-2/bu-men-yu-quan-xian.md)
-    * 公海问题
+  * [公海问题](chang-jian-wen-ti-2/bu-men-yu-quan-xian/gong-hai-wen-ti.md)
+  * 审批问题
+  * [报表统计问题](chang-jian-wen-ti-2/dao-ru-wen-ti.md)
+  * 其他问题
+  * 组织架构问题
 
