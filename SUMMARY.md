@@ -26,7 +26,7 @@
     * [添加协作人](chapter1/ke-hu/tian-jia-xie-zuo-ren.md)
     * [合并客户](chapter1/ke-hu/he-bing-ke-hu.md)
     * [编辑客户](chapter1/ke-hu/bian-ji-ke-hu.md)
-    * 删除客户
+    * [删除客户](chapter1/ke-hu/shan-chu-ke-hu.md)
     * 全部客户
     * 我的客户
     * 我下属的客户
