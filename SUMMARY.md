@@ -37,7 +37,7 @@
     * [添加联系人](chapter1/ke-hu/tian-jia-lian-xi-ren.md)
     * [添加商机](chapter1/ke-hu/tian-jia-shang-ji.md)
     * [添加合同](chapter1/ke-hu/tian-jia-he-tong.md)
-    * 添加费用
+    * [添加费用](chapter1/ke-hu/tian-jia-fei-yong.md)
     * 下级客户
   * [客户公海](chapter1/ke-hu-gong-hai.md)
     * [公海管理员](chapter1/ke-hu-gong-hai/gong-hai-guan-li-yuan.md)
