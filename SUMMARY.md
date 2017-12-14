@@ -30,7 +30,7 @@
     * [全部客户](chapter1/ke-hu/quan-bu-ke-hu.md)
     * [我的客户](chapter1/ke-hu/wo-de-ke-hu.md)
     * [我下属的客户](chapter1/ke-hu/wo-xia-shu-de-ke-hu.md)
-    * 我协作的客户
+    * [我协作的客户](chapter1/ke-hu/wo-xie-zuo-de-ke-hu.md)
     * 我下属协作的客户
     * 待审批的客户
     * 导出客户
