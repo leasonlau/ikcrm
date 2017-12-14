@@ -215,7 +215,6 @@
     * [自定义工作台](chapter1/gong-zuo-tai/zi-ding-yi-gong-zuo-tai.md)
   * [通知中心](chapter1/tong-zhi-zhong-xin.md)
     * [通知分类](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi.md)
-      * [系统通知](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/xi-tong-tong-zhi.md)
       * [工作报告](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/gong-zuo-bao-gao.md)
       * [客户公海相关](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/ke-hu-gong-hai-xiang-guan.md)
       * [操作通知](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/cao-zuo-tong-zhi.md)
