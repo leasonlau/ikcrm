@@ -34,7 +34,7 @@
     * [我下属协作的客户](chapter1/ke-hu/wo-xia-shu-xie-zuo-de-ke-hu.md)
     * [待审批的客户](chapter1/ke-hu/dai-shen-pi-de-ke-hu.md)
     * [导出客户](chapter1/ke-hu/dao-chu-ke-hu.md)
-    * 添加联系人
+    * [添加联系人](chapter1/ke-hu/tian-jia-lian-xi-ren.md)
     * 添加商机
     * 添加合同
     * 添加费用
