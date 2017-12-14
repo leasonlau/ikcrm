@@ -44,7 +44,7 @@
     * [导入客户至公海](chapter1/ke-hu-gong-hai/dao-ru-ke-hu-zhi-gong-hai.md)
     * [转移给他人](chapter1/ke-hu-gong-hai/zhuan-yi-gei-ta-ren.md)
     * [转移到其他公海](chapter1/ke-hu-gong-hai/zhuan-yi-dao-qi-ta-gong-hai.md)
-    * 合并公海客户
+    * [合并公海客户](chapter1/ke-hu-gong-hai/he-bing-gong-hai-ke-hu.md)
     * 编辑公海客户
     * 删除公海客户
     * 导出公海客户
