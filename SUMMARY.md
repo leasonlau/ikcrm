@@ -285,5 +285,4 @@
   * [公海自动划入问题](chang-jian-wen-ti-2/gong-hai-wen-ti.md)
   * [审批问题](chang-jian-wen-ti-2/shen-pi-wen-ti.md)
   * [报表统计问题](chang-jian-wen-ti-2/bao-biao-tong-ji-wen-ti.md)
-  * [其他问题](chang-jian-wen-ti-2/qi-ta-wen-ti.md)
 
