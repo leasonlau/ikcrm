@@ -31,7 +31,7 @@
     * [我的客户](chapter1/ke-hu/wo-de-ke-hu.md)
     * [我下属的客户](chapter1/ke-hu/wo-xia-shu-de-ke-hu.md)
     * [我协作的客户](chapter1/ke-hu/wo-xie-zuo-de-ke-hu.md)
-    * 我下属协作的客户
+    * [我下属协作的客户](chapter1/ke-hu/wo-xia-shu-xie-zuo-de-ke-hu.md)
     * 待审批的客户
     * 导出客户
     * 添加联系人
