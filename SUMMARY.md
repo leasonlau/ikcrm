@@ -46,7 +46,7 @@
     * [转移到其他公海](chapter1/ke-hu-gong-hai/zhuan-yi-dao-qi-ta-gong-hai.md)
     * [合并公海客户](chapter1/ke-hu-gong-hai/he-bing-gong-hai-ke-hu.md)
     * [编辑公海客户](chapter1/ke-hu-gong-hai/bian-ji-gong-hai-ke-hu.md)
-    * 删除公海客户
+    * [删除公海客户](chapter1/ke-hu-gong-hai/shan-chu-gong-hai-ke-hu.md)
     * 导出公海客户
     * [公海成员](chapter1/ke-hu-gong-hai/gong-hai-cheng-yuan.md)
     * 抢客户
