@@ -27,7 +27,7 @@
     * [合并客户](chapter1/ke-hu/he-bing-ke-hu.md)
     * [编辑客户](chapter1/ke-hu/bian-ji-ke-hu.md)
     * [删除客户](chapter1/ke-hu/shan-chu-ke-hu.md)
-    * 全部客户
+    * [全部客户](chapter1/ke-hu/quan-bu-ke-hu.md)
     * 我的客户
     * 我下属的客户
     * 我协作的客户
