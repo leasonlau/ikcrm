@@ -22,7 +22,7 @@
     * [导入客户跟进记录](chapter1/ke-hu/dao-ru-ke-hu-gen-jin-ji-lu.md)
     * [客户查重](chapter1/ke-hu/ke-hu-cha-zhong.md)
     * [转移给他人](chapter1/ke-hu/zhuan-yi-gei-ta-ren.md)
-    * 转移至公海
+    * [转移至公海](chapter1/ke-hu/zhuan-yi-zhi-gong-hai.md)
     * 添加协作人
     * 合并客户
     * 编辑客户
