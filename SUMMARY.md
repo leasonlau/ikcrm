@@ -175,7 +175,6 @@
   * [数据上报](chapter1/shu-ju-shang-bao.md)
     * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
     * [查看数据上报](chapter1/shu-ju-shang-bao/cha-kan-shu-ju-shang-bao.md)
-    * [新增数据上报](chapter1/shu-ju-shang-bao/xin-zeng-shu-ju-shang-bao.md)
   * [短信群发](chapter1/duan-xin-qun-fa.md)
     * [购买短信](chapter1/duan-xin-qun-fa/gou-mai-duan-xin.md)
     * [发送短信](chapter1/duan-xin-qun-fa/fa-song-duan-xin.md)
