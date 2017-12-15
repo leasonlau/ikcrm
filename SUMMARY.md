@@ -39,6 +39,7 @@
     * [添加合同](chapter1/ke-hu/tian-jia-he-tong.md)
     * [添加费用](chapter1/ke-hu/tian-jia-fei-yong.md)
     * [下级客户](chapter1/ke-hu/xia-ji-ke-hu.md)
+    * [客户审批](chapter1/ke-hu/ke-hu-shen-pi.md)
   * [客户公海](chapter1/ke-hu-gong-hai.md)
     * [公海管理员](chapter1/ke-hu-gong-hai/gong-hai-guan-li-yuan.md)
     * [导入客户至公海](chapter1/ke-hu-gong-hai/dao-ru-ke-hu-zhi-gong-hai.md)
@@ -104,6 +105,7 @@
     * [添加产品](chapter1/he-tong/tian-jia-chan-pin.md)
     * [添加费用](chapter1/he-tong/tian-jia-fei-yong.md)
     * [复制合同](chapter1/he-tong/fu-zhi-he-tong.md)
+    * 合同审批
   * [回款](chapter1/hui-kuan.md)
     * [新增回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
     * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
