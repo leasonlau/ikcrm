@@ -221,6 +221,8 @@
       * [操作通知](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/cao-zuo-tong-zhi.md)
       * [评论](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/ping-lun.md)
       * [协作人通知](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/xie-zuo-ren-tong-zhi.md)
+      * [任务通知](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/ren-wu-tong-zhi.md)
+      * 风险信息订阅通知
   * [任务](chapter1/ti-xing.md)
     * [新建任务](chapter1/ti-xing/ren-wu.md)
     * [编辑任务](chapter1/ti-xing/ti-xing.md)
