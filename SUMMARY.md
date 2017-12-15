@@ -154,6 +154,9 @@
     * 呼出流水报表
     * [呼入流水报表](chapter1/bao-biao-zhong-xin/hu-ru-liu-shui-bao-biao.md)
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
+    * 写报告
+    * 查看报告
+    * 报告统计
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
     * [写跟进](chapter1/gen-jin-ji-lu/xie-gen-jin.md)
     * [导入跟进记录](chapter1/gen-jin-ji-lu/dao-ru-gen-jin-ji-lu.md)
@@ -280,4 +283,6 @@
   * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
     * [帐号安全](chang-jian-wen-ti/guan-yu-an-quan/zhang-hao-an-quan.md)
     * 数据安全
+
+
 
