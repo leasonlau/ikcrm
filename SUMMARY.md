@@ -57,8 +57,8 @@
     * [联系人查重](chapter1/lian-xi-ren/lian-xi-ren-cha-zhong.md)
     * [编辑联系人](chapter1/lian-xi-ren/bian-ji-lian-xi-ren.md)
     * [删除联系人](chapter1/lian-xi-ren/shan-chu-lian-xi-ren.md)
-    * 全部联系人
-    * 我的联系人
+    * [全部联系人](chapter1/lian-xi-ren/quan-bu-lian-xi-ren.md)
+    * [我的联系人](chapter1/lian-xi-ren/wo-de-lian-xi-ren.md)
     * 我下属的联系人
     * 我协作的联系人
     * 我下属协作的联系人
