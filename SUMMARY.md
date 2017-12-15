@@ -50,7 +50,7 @@
     * 导出公海客户
     * [公海成员](chapter1/ke-hu-gong-hai/gong-hai-cheng-yuan.md)
     * 抢客户
-    * 所属公海
+    * [所属公海](chapter1/ke-hu-gong-hai/suo-shu-gong-hai.md)
   * [联系人](chapter1/lian-xi-ren.md)
     * [新增联系人](chapter1/lian-xi-ren/xin-zeng-lian-xi-ren.md)
     * [导入联系人](chapter1/lian-xi-ren/dao-ru-lian-xi-ren.md)
@@ -131,7 +131,7 @@
     * [销售预测报表](chapter1/bao-biao-zhong-xin/xiao-shou-yu-ce-bao-biao.md)
     * [销售漏斗报表](chapter1/bao-biao-zhong-xin/xiao-shou-lou-dou-bao-biao.md)
     * [业务新增汇总报表](chapter1/bao-biao-zhong-xin/ye-wu-xin-zeng-hui-zong-bao-biao.md)
-    * 业绩目标完成度报表
+    * [业绩目标完成度报表](chapter1/bao-biao-zhong-xin/ye-ji-mu-biao-wan-cheng-du-bao-biao.md)
     * 回款计划汇总报表
     * 产品销售汇总报表
     * 赢单商机汇总报表
