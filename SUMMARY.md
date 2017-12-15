@@ -105,7 +105,7 @@
     * [添加产品](chapter1/he-tong/tian-jia-chan-pin.md)
     * [添加费用](chapter1/he-tong/tian-jia-fei-yong.md)
     * [复制合同](chapter1/he-tong/fu-zhi-he-tong.md)
-    * 合同审批
+    * [合同审批](chapter1/he-tong/he-tong-shen-pi.md)
   * [回款](chapter1/hui-kuan.md)
     * [新增回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
     * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
