@@ -249,6 +249,7 @@
     * [设置未完成](chapter1/ti-xing/she-zhi-wei-wan-cheng.md)
     * [过期任务](chapter1/ti-xing/guo-qi-ren-wu.md)
     * [任务通知](chapter1/ti-xing/ren-wu-tong-zhi.md)
+  * [销售动态](chapter1/xiao-shou-dong-tai.md)
   * [附件](chapter1/fu-jian.md)
   * [快捷编辑](chapter1/kuai-jie-bian-ji.md)
   * [自定义筛选](chapter1/zi-ding-yi-shai-xuan.md)
@@ -299,6 +300,4 @@
   * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
     * [帐号安全](chang-jian-wen-ti/guan-yu-an-quan/zhang-hao-an-quan.md)
     * 数据安全
-
-
 
