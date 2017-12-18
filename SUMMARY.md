@@ -91,7 +91,7 @@
     * [导入合同跟进记录](chapter1/he-tong/dao-ru-he-tong-gen-jin-ji-lu.md)
     * [转移给他人](chapter1/he-tong/zhuan-yi-gei-ta-ren.md)
     * [添加协作人](chapter1/he-tong/tian-jia-xie-zuo-ren.md)
-    * 合同详情
+    * [合同详情](chapter1/he-tong/he-tong-xiang-qing.md)
     * [编辑合同](chapter1/he-tong/bian-ji-he-tong.md)
     * [删除合同](chapter1/he-tong/shan-chu-he-tong.md)
     * [全部合同](chapter1/he-tong/quan-bu-he-tong.md)
