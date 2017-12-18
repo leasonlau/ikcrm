@@ -111,7 +111,6 @@
     * [合同审批](chapter1/he-tong/he-tong-shen-pi.md)
   * [回款](chapter1/hui-kuan.md)
     * [新增回款计划](chapter1/hui-kuan/xin-zeng-hui-kuan-ji-hua.md)
-    * [配置回款计划](chapter1/hui-kuan/pei-zhi-hui-kuan-ji-hua.md)
     * [回款计划详情](chapter1/hui-kuan/hui-kuan-ji-hua-xiang-qing.md)
     * [导入回款计划](chapter1/hui-kuan/dao-ru-hui-kuan-ji-hua.md)
     * [导出回款计划](chapter1/hui-kuan/dao-chu-hui-kuan-ji-hua.md)
