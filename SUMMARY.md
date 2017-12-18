@@ -16,6 +16,7 @@
     * [我下属的线索](chapter1/xian-suo/wo-xia-shu-de-xian-suo.md)
     * [已转客户的线索](chapter1/xian-suo/yi-zhuan-ke-hu-de-xian-suo.md)
     * [导出线索](chapter1/xian-suo/dao-chu-xian-suo.md)
+    * [转成客户](chapter1/xian-suo/zhuan-cheng-ke-hu.md)
   * [客户](chapter1/ke-hu.md)
     * [新增客户](chapter1/ke-hu/xin-zeng-ke-hu.md)
     * [导入客户](chapter1/ke-hu/dao-ru-ke-hu.md)
