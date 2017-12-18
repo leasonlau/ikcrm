@@ -294,8 +294,8 @@
   * [电销版—电话宝](chang-jian-wen-ti/dian-xiao-ban-2014-dian-hua-bao.md)
   * [钉钉相关](chang-jian-wen-ti/ding-ding-xiang-guan.md)
   * [打通进销存](chang-jian-wen-ti/da-tong-jin-xiao-cun.md)
+  * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
   * [API接口](chang-jian-wen-ti/apidui-jie.md)
     * [API接口怎么用](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
     * [爱客CRM都有哪些API接口](chang-jian-wen-ti/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
-  * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
 
