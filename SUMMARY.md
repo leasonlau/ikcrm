@@ -25,7 +25,7 @@
     * [转移至公海](chapter1/ke-hu/zhuan-yi-zhi-gong-hai.md)
     * [添加协作人](chapter1/ke-hu/tian-jia-xie-zuo-ren.md)
     * [合并客户](chapter1/ke-hu/he-bing-ke-hu.md)
-    * 客户详情
+    * [客户详情](chapter1/ke-hu/ke-hu-xiang-qing.md)
     * [编辑客户](chapter1/ke-hu/bian-ji-ke-hu.md)
     * [删除客户](chapter1/ke-hu/shan-chu-ke-hu.md)
     * [全部客户](chapter1/ke-hu/quan-bu-ke-hu.md)
