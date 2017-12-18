@@ -298,6 +298,4 @@
     * [API接口怎么用](chang-jian-wen-ti/apidui-jie/apijie-kou-shi-shi-yao.md)
     * [爱客CRM都有哪些API接口](chang-jian-wen-ti/apidui-jie/ai-ke-crm-du-you-na-xie-api-jie-kou.md)
   * [关于安全](chang-jian-wen-ti/guan-yu-an-quan.md)
-    * [帐号安全](chang-jian-wen-ti/guan-yu-an-quan/zhang-hao-an-quan.md)
-    * 数据安全
 
