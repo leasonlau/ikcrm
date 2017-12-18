@@ -56,7 +56,7 @@
     * [导入联系人](chapter1/lian-xi-ren/dao-ru-lian-xi-ren.md)
     * [扫描名片](chapter1/lian-xi-ren/sao-miao-ming-pian.md)
     * [联系人查重](chapter1/lian-xi-ren/lian-xi-ren-cha-zhong.md)
-    * 联系人详情
+    * [联系人详情](chapter1/lian-xi-ren/lian-xi-ren-xiang-qing.md)
     * [编辑联系人](chapter1/lian-xi-ren/bian-ji-lian-xi-ren.md)
     * [删除联系人](chapter1/lian-xi-ren/shan-chu-lian-xi-ren.md)
     * [全部联系人](chapter1/lian-xi-ren/quan-bu-lian-xi-ren.md)
