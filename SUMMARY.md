@@ -164,8 +164,8 @@
     * 呼出流水报表
     * [呼入流水报表](chapter1/bao-biao-zhong-xin/hu-ru-liu-shui-bao-biao.md)
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
-    * 写报告
-    * 查看报告
+    * [写报告](chapter1/gong-zuo-bao-gao/xie-bao-gao.md)
+    * [查看报告](chapter1/gong-zuo-bao-gao/cha-kan-bao-gao.md)
     * 报告统计
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
     * [写跟进](chapter1/gen-jin-ji-lu/xie-gen-jin.md)
