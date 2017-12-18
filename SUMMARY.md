@@ -72,7 +72,7 @@
     * [导入商机跟进记录](chapter1/shang-ji/dao-ru-shang-ji-gen-jin-ji-lu.md)
     * [转移给他人](chapter1/shang-ji/zhuan-yi-gei-ta-ren.md)
     * [添加协作人](chapter1/shang-ji/tian-jia-xie-zuo-ren.md)
-    * 商机详情
+    * [商机详情](chapter1/shang-ji/shang-ji-xiang-qing.md)
     * [编辑商机](chapter1/shang-ji/bian-ji-shang-ji.md)
     * [删除商机](chapter1/shang-ji/shan-chu-shang-ji.md)
     * [全部商机](chapter1/shang-ji/quan-bu-shang-ji.md)
