@@ -166,7 +166,7 @@
   * [工作报告](chapter1/gong-zuo-bao-gao.md)
     * [写报告](chapter1/gong-zuo-bao-gao/xie-bao-gao.md)
     * [查看报告](chapter1/gong-zuo-bao-gao/cha-kan-bao-gao.md)
-    * 报告统计
+    * [报告统计](chapter1/gong-zuo-bao-gao/bao-gao-tong-ji.md)
   * [跟进记录](chapter1/gen-jin-ji-lu.md)
     * [写跟进](chapter1/gen-jin-ji-lu/xie-gen-jin.md)
     * [导入跟进记录](chapter1/gen-jin-ji-lu/dao-ru-gen-jin-ji-lu.md)
