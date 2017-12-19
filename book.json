@@ -1,6 +1,9 @@
 {
     "language": "zh-hans",
     "plugins": [
-        "expandable-chapters"
+        "expandable-chapters",
+        "-lunr",
+        "-search",
+        "search-plus"
                 ]
 }
