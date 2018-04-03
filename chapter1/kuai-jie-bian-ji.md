@@ -4,23 +4,23 @@
 
 以下列表页不支持快捷编辑的字段有
 
-线索
+**线索**
 
 ![](/assets/快捷编辑1import.png)
 
-客户
+**客户**
 
 ![](/assets/快捷编辑2import.png)
 
-联系人
+**联系人**
 
 ![](/assets/快捷编辑3import.png)
 
-商机
+**商机**
 
 ![](/assets/快捷编辑4import.png)
 
-合同
+**合同**
 
 ![](/assets/快捷编辑5import.png)
 
